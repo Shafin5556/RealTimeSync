@@ -1,0 +1,1001 @@
+Date,Time,Crop Name,Temperature,Humidity,Soil Moisture,Light Intensity,Temperature_LIH,Humidity_LIH,Soil_Moisture_LIH,Light_Intensity_LIH,Advice
+27/1/24,1:19:03,Potato,15.43,93.1,76.68,15728.52,Low,High,Ideal,High,Conditions are within the ideal range.
+31/12/23,11:30:20,Sugarcane,20.04,60.46,38.32,26688.02,Low,Ideal,Low,Ideal,Increase irrigation frequency or use soil moisture-retention techniques.
+11/3/24,4:50:20,Wheat,27.51,63.64,19.98,24591.26,High,High,Low,Ideal,Implement shade nets or use reflective mulch to reduce soil and air temperatures. Increase irrigation frequency or use soil moisture-retention techniques.
+28/7/24,21:27:06,Wheat,11.9,63.7,47.28,25741.26,Low,High,High,High,Conditions are within the ideal range.
+19/2/24,12:12:11,Rice,39.62,95.64,80.73,8492.05,High,High,High,Low,Implement shade nets or use reflective mulch to reduce soil and air temperatures. Adjust light exposure if possible or use supplementary lighting.
+6/7/24,23:43:03,Sugarcane,39.65,57.14,33.54,25980.76,High,Low,Low,Ideal,Implement shade nets or use reflective mulch to reduce soil and air temperatures. Consider installing a misting system or using organic mulch to raise humidity levels. Increase irrigation frequency or use soil moisture-retention techniques.
+7/10/23,21:36:57,Jute,40.44,88.77,44.63,53698.27,High,High,Ideal,High,Implement shade nets or use reflective mulch to reduce soil and air temperatures.
+19/9/24,13:55:36,Jute,23.57,53.25,57.04,37889.48,Low,Low,Ideal,Ideal,Consider installing a misting system or using organic mulch to raise humidity levels.
+25/5/24,12:23:51,Sugarcane,26.84,86.34,51.22,18128.86,Ideal,High,Ideal,Low,Adjust light exposure if possible or use supplementary lighting.
+26/5/24,12:27:46,Wheat,25.55,54.17,30.97,14097.17,High,Ideal,Ideal,Low,Implement shade nets or use reflective mulch to reduce soil and air temperatures. Adjust light exposure if possible or use supplementary lighting.
+1/4/24,17:34:22,Sugarcane,23.55,66.68,42.61,30908.13,Low,Ideal,Ideal,High,Conditions are within the ideal range.
+10/5/24,12:15:02,Sugarcane,20.05,59.11,33.01,23478.16,Low,Low,Low,Ideal,Consider installing a misting system or using organic mulch to raise humidity levels. Increase irrigation frequency or use soil moisture-retention techniques.
+3/10/23,9:20:15,Potato,16.9,90.1,75.03,9487.6,Low,High,Ideal,Ideal,Conditions are within the ideal range.
+10/11/23,21:30:15,Potato,18.58,94.39,88.49,7138.96,Ideal,High,High,Low,Adjust light exposure if possible or use supplementary lighting.
+17/12/23,3:15:37,Rice,28.89,90.28,86.63,9699.43,Ideal,High,High,Low,Adjust light exposure if possible or use supplementary lighting.
+31/8/24,12:35:51,Wheat,27.87,50.55,23.33,13240.51,High,Ideal,Ideal,Low,Implement shade nets or use reflective mulch to reduce soil and air temperatures. Adjust light exposure if possible or use supplementary lighting.
+14/5/24,2:18:15,Rice,36.13,73.87,52.08,19726.65,High,Ideal,Low,Ideal,Implement shade nets or use reflective mulch to reduce soil and air temperatures. Increase irrigation frequency or use soil moisture-retention techniques.
+18/2/24,0:51:45,Rice,20.88,76.83,84.77,18253.2,Low,Ideal,High,Ideal,Conditions are within the ideal range.
+7/2/24,4:21:39,Sugarcane,27.07,50.49,36.04,18031.69,Ideal,Low,Low,Low,Consider installing a misting system or using organic mulch to raise humidity levels. Increase irrigation frequency or use soil moisture-retention techniques. Adjust light exposure if possible or use supplementary lighting.
+12/3/24,13:07:32,Sugarcane,39.82,86.09,33.74,32972.56,High,High,Low,High,Implement shade nets or use reflective mulch to reduce soil and air temperatures. Increase irrigation frequency or use soil moisture-retention techniques.
+19/1/24,23:46:53,Jute,41.14,51.32,60.7,46162.58,High,Low,High,Ideal,Implement shade nets or use reflective mulch to reduce soil and air temperatures. Consider installing a misting system or using organic mulch to raise humidity levels.
+6/12/23,14:02:23,Rice,21.82,94.93,72.61,9598.46,Low,High,Ideal,Low,Adjust light exposure if possible or use supplementary lighting.
+27/5/24,5:06:12,Jute,38.21,75.59,62.2,26849.59,High,Ideal,High,Low,Implement shade nets or use reflective mulch to reduce soil and air temperatures. Adjust light exposure if possible or use supplementary lighting.
+12/9/24,4:00:38,Jute,40.78,52.91,65.93,53912.12,High,Low,High,High,Implement shade nets or use reflective mulch to reduce soil and air temperatures. Consider installing a misting system or using organic mulch to raise humidity levels.
+6/11/23,16:45:35,Sugarcane,36.74,59.01,78.42,32188.51,High,Low,High,High,Implement shade nets or use reflective mulch to reduce soil and air temperatures. Consider installing a misting system or using organic mulch to raise humidity levels.
+25/7/24,19:12:41,Rice,21.77,85.48,85.37,9947.77,Low,Ideal,High,Low,Adjust light exposure if possible or use supplementary lighting.
+1/9/24,19:27:01,Rice,23.57,73.6,51.68,20273.68,Low,Ideal,Low,High,Increase irrigation frequency or use soil moisture-retention techniques.
+25/9/23,6:47:05,Jute,40.25,52.85,65.37,53170.57,High,Low,High,High,Implement shade nets or use reflective mulch to reduce soil and air temperatures. Consider installing a misting system or using organic mulch to raise humidity levels.
+28/5/24,18:18:32,Jute,40.96,79.99,65.62,26263.17,High,Ideal,High,Low,Implement shade nets or use reflective mulch to reduce soil and air temperatures. Adjust light exposure if possible or use supplementary lighting.
+15/2/24,22:06:28,Potato,18.2,82.15,85.67,11178.7,Ideal,Ideal,High,Ideal,Conditions are within the ideal range.
+4/5/24,20:53:51,Potato,20.83,79.52,89.82,16808.81,Ideal,Low,High,High,Consider installing a misting system or using organic mulch to raise humidity levels.
+16/5/24,19:46:24,Potato,18.85,81,86.54,9781.36,Ideal,Ideal,High,Ideal,Conditions are within the ideal range.
+28/4/24,1:47:18,Jute,38.47,80.97,58.91,53214.63,High,High,Ideal,High,Implement shade nets or use reflective mulch to reduce soil and air temperatures.
+5/9/24,4:28:28,Jute,21.21,76.83,60.95,41140.03,Low,Ideal,High,Ideal,Conditions are within the ideal range.
+25/5/24,5:18:29,Potato,20.87,75.94,87.99,9479.11,Ideal,Low,High,Ideal,Consider installing a misting system or using organic mulch to raise humidity levels.
+18/1/24,9:59:16,Rice,24.95,98.97,52.1,20346.94,Low,High,Low,High,Increase irrigation frequency or use soil moisture-retention techniques.
+12/7/24,17:50:52,Rice,23.58,67.93,53.01,9969.8,Low,Low,Low,Low,Consider installing a misting system or using organic mulch to raise humidity levels. Increase irrigation frequency or use soil moisture-retention techniques. Adjust light exposure if possible or use supplementary lighting.
+3/4/24,9:56:53,Sugarcane,37.99,72.26,33.1,32313.18,High,Ideal,Low,High,Implement shade nets or use reflective mulch to reduce soil and air temperatures. Increase irrigation frequency or use soil moisture-retention techniques.
+29/12/23,18:26:44,Sugarcane,39.73,78.18,73.57,29142.59,High,Ideal,High,Ideal,Implement shade nets or use reflective mulch to reduce soil and air temperatures.
+31/8/24,8:42:55,Rice,23.19,73.66,72.85,21322.37,Low,Ideal,Ideal,High,Conditions are within the ideal range.
+6/2/24,6:20:11,Sugarcane,23.82,85.42,77.66,21614.76,Low,High,High,Ideal,Conditions are within the ideal range.
+26/10/23,0:01:50,Sugarcane,34.57,72.14,52.91,27043.17,Ideal,Ideal,Ideal,Ideal,Conditions are within the ideal range.
+6/4/24,7:07:11,Potato,15.33,70.86,84.38,15787,Low,Low,Ideal,High,Consider installing a misting system or using organic mulch to raise humidity levels.
+27/12/23,4:33:55,Rice,26.28,78.47,50.82,11724.69,Ideal,Ideal,Low,Ideal,Increase irrigation frequency or use soil moisture-retention techniques.
+21/4/24,17:24:32,Jute,22.05,89.42,50.28,54300.7,Low,High,Ideal,High,Conditions are within the ideal range.
+11/10/23,14:01:44,Jute,27.82,56.29,59.24,41347.43,Ideal,Low,Ideal,Ideal,Consider installing a misting system or using organic mulch to raise humidity levels.
+28/7/24,4:41:01,Rice,30.37,68.5,60.69,15048.23,Ideal,Low,Ideal,Ideal,Consider installing a misting system or using organic mulch to raise humidity levels.
+7/7/24,12:55:03,Jute,41.52,69.29,48.1,42224.87,High,Ideal,Ideal,Ideal,Implement shade nets or use reflective mulch to reduce soil and air temperatures.
+11/3/24,14:53:39,Wheat,10.51,63.99,14.45,26140.43,Low,High,Low,High,Increase irrigation frequency or use soil moisture-retention techniques.
+11/7/24,20:53:03,Potato,24.91,93.96,87.26,6069.87,High,High,High,Low,Implement shade nets or use reflective mulch to reduce soil and air temperatures. Adjust light exposure if possible or use supplementary lighting.
+25/3/24,22:49:14,Jute,41.4,72.32,35.32,44585.13,High,Ideal,Low,Ideal,Implement shade nets or use reflective mulch to reduce soil and air temperatures. Increase irrigation frequency or use soil moisture-retention techniques.
+12/8/24,16:53:35,Wheat,26.48,47.44,23.81,25101.3,High,Low,Ideal,High,Implement shade nets or use reflective mulch to reduce soil and air temperatures. Consider installing a misting system or using organic mulch to raise humidity levels.
+10/10/23,3:19:37,Jute,32.7,81.77,58.73,47762.71,Ideal,High,Ideal,Ideal,Conditions are within the ideal range.
+16/5/24,1:31:50,Wheat,23.38,53.65,42.1,20660.53,Ideal,Ideal,High,Ideal,Conditions are within the ideal range.
+4/1/24,1:25:09,Wheat,10.01,43.74,48.08,20822.96,Low,Low,High,Ideal,Consider installing a misting system or using organic mulch to raise humidity levels.
+22/8/24,17:56:56,Jute,24.41,51.24,69.54,26069.33,Ideal,Low,High,Low,Consider installing a misting system or using organic mulch to raise humidity levels. Adjust light exposure if possible or use supplementary lighting.
+16/7/24,6:48:48,Jute,41.7,54.23,40.88,51570.51,High,Low,Ideal,High,Implement shade nets or use reflective mulch to reduce soil and air temperatures. Consider installing a misting system or using organic mulch to raise humidity levels.
+11/1/24,12:20:18,Rice,32.77,93.54,56.5,8284.27,Ideal,High,Low,Low,Increase irrigation frequency or use soil moisture-retention techniques. Adjust light exposure if possible or use supplementary lighting.
+27/12/23,12:11:22,Rice,29.21,77.52,59.43,9904.55,Ideal,Ideal,Low,Low,Increase irrigation frequency or use soil moisture-retention techniques. Adjust light exposure if possible or use supplementary lighting.
+15/3/24,7:45:32,Rice,38.44,97.83,80.54,9960.82,High,High,High,Low,Implement shade nets or use reflective mulch to reduce soil and air temperatures. Adjust light exposure if possible or use supplementary lighting.
+27/10/23,8:38:57,Jute,39.79,54.99,36.99,52532.71,High,Low,Low,High,Implement shade nets or use reflective mulch to reduce soil and air temperatures. Consider installing a misting system or using organic mulch to raise humidity levels. Increase irrigation frequency or use soil moisture-retention techniques.
+29/8/24,19:01:56,Rice,24.85,86.73,65.57,8604.08,Low,Ideal,Ideal,Low,Adjust light exposure if possible or use supplementary lighting.
+12/9/24,16:53:49,Jute,29.5,57.5,67.14,43263.9,Ideal,Low,High,Ideal,Consider installing a misting system or using organic mulch to raise humidity levels.
+25/3/24,0:00:53,Wheat,10.51,45.26,45.64,26704.4,Low,Low,High,High,Consider installing a misting system or using organic mulch to raise humidity levels.
+16/10/23,2:58:38,Rice,25.59,63.55,51.52,18771.55,Ideal,Low,Low,Ideal,Consider installing a misting system or using organic mulch to raise humidity levels. Increase irrigation frequency or use soil moisture-retention techniques.
+13/4/24,13:22:31,Sugarcane,36.47,69.89,61.22,19307.98,High,Ideal,Ideal,Low,Implement shade nets or use reflective mulch to reduce soil and air temperatures. Adjust light exposure if possible or use supplementary lighting.
+29/8/24,7:25:38,Jute,21.04,80.31,33.45,50039.36,Low,High,Low,High,Increase irrigation frequency or use soil moisture-retention techniques.
+16/9/24,4:47:12,Rice,27.81,64.11,84.55,9992.63,Ideal,Low,High,Low,Consider installing a misting system or using organic mulch to raise humidity levels. Adjust light exposure if possible or use supplementary lighting.
+23/8/24,11:01:33,Rice,29.47,88.71,59.78,18139.85,Ideal,Ideal,Low,Ideal,Increase irrigation frequency or use soil moisture-retention techniques.
+31/12/23,9:36:17,Sugarcane,28.05,64.5,74.52,26642.03,Ideal,Ideal,High,Ideal,Conditions are within the ideal range.
+27/9/23,9:22:13,Sugarcane,39.45,77.99,79.2,18593.28,High,Ideal,High,Low,Implement shade nets or use reflective mulch to reduce soil and air temperatures. Adjust light exposure if possible or use supplementary lighting.
+23/5/24,19:32:01,Wheat,25.37,61.44,32.87,21596.21,High,High,Ideal,Ideal,Implement shade nets or use reflective mulch to reduce soil and air temperatures.
+26/12/23,15:01:57,Jute,20.47,87.76,41.56,54489.83,Low,High,Ideal,High,Conditions are within the ideal range.
+23/9/23,5:59:24,Rice,39.14,66.31,78.97,8480.03,High,Low,Ideal,Low,Implement shade nets or use reflective mulch to reduce soil and air temperatures. Consider installing a misting system or using organic mulch to raise humidity levels. Adjust light exposure if possible or use supplementary lighting.
+16/2/24,5:19:38,Sugarcane,26.61,57.32,46.82,26695.59,Ideal,Low,Ideal,Ideal,Consider installing a misting system or using organic mulch to raise humidity levels.
+23/7/24,13:42:21,Jute,26.36,55.21,64.14,28966.79,Ideal,Low,High,Low,Consider installing a misting system or using organic mulch to raise humidity levels. Adjust light exposure if possible or use supplementary lighting.
+9/12/23,12:27:06,Jute,40.38,74.92,60.78,51913.12,High,Ideal,High,High,Implement shade nets or use reflective mulch to reduce soil and air temperatures.
+29/2/24,21:58:29,Rice,32.31,74.03,80,8184.88,Ideal,Ideal,Ideal,Low,Adjust light exposure if possible or use supplementary lighting.
+29/1/24,1:32:27,Sugarcane,25.64,77.74,73.7,31435.8,Ideal,Ideal,High,High,Conditions are within the ideal range.
+8/9/24,0:44:03,Sugarcane,32.04,81.69,60.45,26198.79,Ideal,High,Ideal,Ideal,Conditions are within the ideal range.
+24/1/24,18:05:42,Wheat,27.19,67.37,13.53,12401.22,High,High,Low,Low,Implement shade nets or use reflective mulch to reduce soil and air temperatures. Increase irrigation frequency or use soil moisture-retention techniques. Adjust light exposure if possible or use supplementary lighting.
+13/5/24,12:48:02,Rice,36.49,73.54,73.32,18224.49,High,Ideal,Ideal,Ideal,Implement shade nets or use reflective mulch to reduce soil and air temperatures.
+24/6/24,13:51:44,Jute,26.12,82.33,53.73,28456.47,Ideal,High,Ideal,Low,Adjust light exposure if possible or use supplementary lighting.
+31/8/24,19:24:39,Jute,22.55,82.95,67.91,40948.95,Low,High,High,Ideal,Conditions are within the ideal range.
+11/6/24,10:34:57,Potato,23.99,87.31,89.09,16906.58,High,Ideal,High,High,Implement shade nets or use reflective mulch to reduce soil and air temperatures.
+29/5/24,17:28:06,Potato,22.55,70.16,65.89,6730.6,High,Low,Low,Low,Implement shade nets or use reflective mulch to reduce soil and air temperatures. Consider installing a misting system or using organic mulch to raise humidity levels. Increase irrigation frequency or use soil moisture-retention techniques. Adjust light exposure if possible or use supplementary lighting.
+28/9/23,9:12:32,Potato,21.41,94.35,86.81,6778.16,Ideal,High,High,Low,Adjust light exposure if possible or use supplementary lighting.
+12/2/24,12:14:53,Sugarcane,24.83,61.48,39.66,23611.75,Low,Ideal,Low,Ideal,Increase irrigation frequency or use soil moisture-retention techniques.
+30/10/23,22:24:15,Jute,38.9,88.83,67.59,52479.08,High,High,High,High,Implement shade nets or use reflective mulch to reduce soil and air temperatures.
+28/7/24,15:49:53,Rice,36.7,91.71,82.47,20496.74,High,High,High,High,Implement shade nets or use reflective mulch to reduce soil and air temperatures.
+19/10/23,5:54:24,Potato,15.26,91.89,68.91,16653.41,Low,High,Low,High,Increase irrigation frequency or use soil moisture-retention techniques.
+24/3/24,11:34:15,Sugarcane,20.01,56.86,41.19,31559.14,Low,Low,Ideal,High,Consider installing a misting system or using organic mulch to raise humidity levels.
+23/3/24,11:47:47,Sugarcane,39.64,87.15,47.19,21591.44,High,High,Ideal,Ideal,Implement shade nets or use reflective mulch to reduce soil and air temperatures.
+12/4/24,16:23:14,Sugarcane,39.18,53.03,69.38,18202.07,High,Low,Ideal,Low,Implement shade nets or use reflective mulch to reduce soil and air temperatures. Consider installing a misting system or using organic mulch to raise humidity levels. Adjust light exposure if possible or use supplementary lighting.
+7/7/24,17:20:50,Rice,26.79,81.47,62.78,14864.55,Ideal,Ideal,Ideal,Ideal,Conditions are within the ideal range.
+10/2/24,22:21:25,Sugarcane,38.98,88.26,31.16,31937.42,High,High,Low,High,Implement shade nets or use reflective mulch to reduce soil and air temperatures. Increase irrigation frequency or use soil moisture-retention techniques.
+7/8/24,15:10:34,Wheat,20.72,51.55,25.5,26549.3,Ideal,Ideal,Ideal,High,Conditions are within the ideal range.
+31/7/24,17:28:08,Jute,21.46,56.47,60.78,54411.1,Low,Low,High,High,Consider installing a misting system or using organic mulch to raise humidity levels.
+31/10/23,22:39:26,Wheat,25.23,55.33,20.12,21097.57,High,Ideal,Ideal,Ideal,Implement shade nets or use reflective mulch to reduce soil and air temperatures.
+21/8/24,18:02:27,Potato,24.4,71.88,66.13,11619.71,High,Low,Low,Ideal,Implement shade nets or use reflective mulch to reduce soil and air temperatures. Consider installing a misting system or using organic mulch to raise humidity levels. Increase irrigation frequency or use soil moisture-retention techniques.
+28/6/24,4:57:19,Wheat,10.45,42.98,42.27,14660.79,Low,Low,High,Low,Consider installing a misting system or using organic mulch to raise humidity levels. Adjust light exposure if possible or use supplementary lighting.
+26/2/24,18:15:17,Jute,28.49,78.64,47.01,29039.09,Ideal,Ideal,Ideal,Low,Adjust light exposure if possible or use supplementary lighting.
+5/3/24,14:49:15,Sugarcane,26.27,52.66,63.79,26267.91,Ideal,Low,Ideal,Ideal,Consider installing a misting system or using organic mulch to raise humidity levels.
+27/9/23,0:13:38,Jute,34.77,89.38,65.79,25748.71,Ideal,High,High,Low,Adjust light exposure if possible or use supplementary lighting.
+26/11/23,2:14:49,Jute,29.42,87.12,64.51,38029.73,Ideal,High,High,Ideal,Conditions are within the ideal range.
+19/9/24,12:05:04,Jute,33.09,88.84,33.06,54498.01,Ideal,High,Low,High,Increase irrigation frequency or use soil moisture-retention techniques.
+15/8/24,19:42:45,Potato,24.2,89.26,68.01,16327.49,High,Ideal,Low,High,Implement shade nets or use reflective mulch to reduce soil and air temperatures. Increase irrigation frequency or use soil moisture-retention techniques.
+18/4/24,23:49:30,Jute,20.69,72.98,62.37,48276.01,Low,Ideal,High,Ideal,Conditions are within the ideal range.
+2/7/24,8:25:08,Rice,34.29,96.24,64.58,22242.93,Ideal,High,Ideal,High,Conditions are within the ideal range.
+10/10/23,6:01:35,Jute,22.26,76.19,66.88,25582.76,Low,Ideal,High,Low,Adjust light exposure if possible or use supplementary lighting.
+16/4/24,22:05:40,Jute,30.94,60.7,46.67,35038.9,Ideal,Ideal,Ideal,Ideal,Conditions are within the ideal range.
+14/8/24,18:32:25,Wheat,11.2,55.29,38.39,26625.34,Low,Ideal,Ideal,High,Conditions are within the ideal range.
+7/5/24,5:42:27,Potato,22.58,75.44,81.4,16180.5,High,Low,Ideal,High,Implement shade nets or use reflective mulch to reduce soil and air temperatures. Consider installing a misting system or using organic mulch to raise humidity levels.
+15/9/24,3:36:20,Rice,31.77,61.89,88.59,21906.48,Ideal,Low,High,High,Consider installing a misting system or using organic mulch to raise humidity levels.
+5/8/24,16:10:50,Jute,26.1,86.78,61.32,26864.04,Ideal,High,High,Low,Adjust light exposure if possible or use supplementary lighting.
+3/1/24,12:27:24,Jute,36.47,62.15,43.92,51306.08,Ideal,Ideal,Ideal,High,Conditions are within the ideal range.
+22/4/24,4:17:42,Wheat,12.47,54.1,35.91,20967.92,Ideal,Ideal,Ideal,Ideal,Conditions are within the ideal range.
+28/7/24,22:35:12,Potato,23.65,94.28,76.61,15722.5,High,High,Ideal,High,Implement shade nets or use reflective mulch to reduce soil and air temperatures.
+30/4/24,1:47:34,Jute,22.16,83.09,64.61,42531.33,Low,High,High,Ideal,Conditions are within the ideal range.
+19/12/23,21:50:43,Wheat,22.35,46.32,48.44,16185.43,Ideal,Low,High,Ideal,Consider installing a misting system or using organic mulch to raise humidity levels.
+6/1/24,18:53:40,Wheat,10.26,57.53,42.94,18215.02,Low,Ideal,High,Ideal,Conditions are within the ideal range.
+29/11/23,23:04:03,Jute,23.54,57.84,30.71,29278.57,Low,Low,Low,Low,Consider installing a misting system or using organic mulch to raise humidity levels. Increase irrigation frequency or use soil moisture-retention techniques. Adjust light exposure if possible or use supplementary lighting.
+29/12/23,6:11:59,Rice,33.67,61.05,55.76,17420.99,Ideal,Low,Low,Ideal,Consider installing a misting system or using organic mulch to raise humidity levels. Increase irrigation frequency or use soil moisture-retention techniques.
+25/9/23,18:41:48,Sugarcane,38.07,61.81,33.33,19517.89,High,Ideal,Low,Low,Implement shade nets or use reflective mulch to reduce soil and air temperatures. Increase irrigation frequency or use soil moisture-retention techniques. Adjust light exposure if possible or use supplementary lighting.
+30/6/24,10:06:34,Sugarcane,39.55,54.91,59.76,19100.78,High,Low,Ideal,Low,Implement shade nets or use reflective mulch to reduce soil and air temperatures. Consider installing a misting system or using organic mulch to raise humidity levels. Adjust light exposure if possible or use supplementary lighting.
+3/10/23,18:12:42,Sugarcane,34.17,50.08,42.15,33155.07,Ideal,Low,Ideal,High,Consider installing a misting system or using organic mulch to raise humidity levels.
+27/11/23,16:05:49,Jute,23.4,83.62,51.22,54881.12,Low,High,Ideal,High,Conditions are within the ideal range.
+13/3/24,17:38:33,Rice,39.73,66.43,89.59,20573.28,High,Low,High,High,Implement shade nets or use reflective mulch to reduce soil and air temperatures. Consider installing a misting system or using organic mulch to raise humidity levels.
+12/2/24,3:07:49,Rice,35.31,94.85,72.71,17640.28,High,High,Ideal,Ideal,Implement shade nets or use reflective mulch to reduce soil and air temperatures.
+27/11/23,18:27:33,Wheat,16.59,60.42,37.03,14927.16,Ideal,High,Ideal,Low,Adjust light exposure if possible or use supplementary lighting.
+9/12/23,14:30:39,Sugarcane,35.82,64.65,77.51,21360.64,High,Ideal,High,Ideal,Implement shade nets or use reflective mulch to reduce soil and air temperatures.
+29/5/24,20:31:38,Potato,20.22,90.2,62.91,11208.65,Ideal,High,Low,Ideal,Increase irrigation frequency or use soil moisture-retention techniques.
+31/5/24,23:20:55,Sugarcane,24.63,87.06,57.68,31688.21,Low,High,Ideal,High,Conditions are within the ideal range.
+16/2/24,22:42:46,Jute,24.52,80.18,37.6,25114.54,Ideal,High,Low,Low,Increase irrigation frequency or use soil moisture-retention techniques. Adjust light exposure if possible or use supplementary lighting.
+12/9/24,3:55:00,Wheat,11.51,59.22,17.39,14655.53,Low,Ideal,Low,Low,Increase irrigation frequency or use soil moisture-retention techniques. Adjust light exposure if possible or use supplementary lighting.
+20/7/24,19:31:17,Rice,36.13,82.65,78.31,21693.86,High,Ideal,Ideal,High,Implement shade nets or use reflective mulch to reduce soil and air temperatures.
+19/12/23,21:08:35,Potato,23.4,85.36,84.43,7514.47,High,Ideal,Ideal,Low,Implement shade nets or use reflective mulch to reduce soil and air temperatures. Adjust light exposure if possible or use supplementary lighting.
+9/9/24,10:16:12,Wheat,25.24,65.8,12.04,12846.38,High,High,Low,Low,Implement shade nets or use reflective mulch to reduce soil and air temperatures. Increase irrigation frequency or use soil moisture-retention techniques. Adjust light exposure if possible or use supplementary lighting.
+12/12/23,21:37:28,Wheat,25.18,46.74,12.38,18779.6,High,Low,Low,Ideal,Implement shade nets or use reflective mulch to reduce soil and air temperatures. Consider installing a misting system or using organic mulch to raise humidity levels. Increase irrigation frequency or use soil moisture-retention techniques.
+27/4/24,6:08:43,Potato,23.21,88.25,64.62,6134.86,High,Ideal,Low,Low,Implement shade nets or use reflective mulch to reduce soil and air temperatures. Increase irrigation frequency or use soil moisture-retention techniques. Adjust light exposure if possible or use supplementary lighting.
+30/1/24,21:15:07,Wheat,11.59,53.95,30.96,24928.4,Low,Ideal,Ideal,Ideal,Conditions are within the ideal range.
+7/6/24,9:39:01,Potato,19.98,72.57,88.89,9403.26,Ideal,Low,High,Ideal,Consider installing a misting system or using organic mulch to raise humidity levels.
+18/5/24,16:45:51,Rice,37.43,98.25,68.57,15660.59,High,High,Ideal,Ideal,Implement shade nets or use reflective mulch to reduce soil and air temperatures.
+15/9/24,10:40:24,Sugarcane,38.82,58.82,75.49,21217.19,High,Low,High,Ideal,Implement shade nets or use reflective mulch to reduce soil and air temperatures. Consider installing a misting system or using organic mulch to raise humidity levels.
+6/10/23,17:54:59,Sugarcane,37.39,61.02,51.39,18180.45,High,Ideal,Ideal,Low,Implement shade nets or use reflective mulch to reduce soil and air temperatures. Adjust light exposure if possible or use supplementary lighting.
+11/1/24,9:08:57,Wheat,10.32,67.82,10.68,23512.36,Low,High,Low,Ideal,Increase irrigation frequency or use soil moisture-retention techniques.
+23/11/23,19:35:39,Potato,22.14,79.61,72.84,16498.38,High,Low,Ideal,High,Implement shade nets or use reflective mulch to reduce soil and air temperatures. Consider installing a misting system or using organic mulch to raise humidity levels.
+8/4/24,8:07:56,Potato,21.21,84.6,71.92,15209.97,Ideal,Ideal,Ideal,High,Conditions are within the ideal range.
+4/3/24,0:26:46,Sugarcane,24.03,50.06,74.34,19909.55,Low,Low,High,Low,Consider installing a misting system or using organic mulch to raise humidity levels. Adjust light exposure if possible or use supplementary lighting.
+24/11/23,18:54:09,Jute,27.02,51.71,60.44,50494.13,Ideal,Low,High,High,Consider installing a misting system or using organic mulch to raise humidity levels.
+24/2/24,14:55:06,Rice,34.71,97.49,78.53,21169.19,Ideal,High,Ideal,High,Conditions are within the ideal range.
+20/11/23,5:41:15,Jute,39.2,83.73,65.03,50222.34,High,High,High,High,Implement shade nets or use reflective mulch to reduce soil and air temperatures.
+10/4/24,3:54:37,Potato,24.36,91.67,70,7900.18,High,High,Ideal,Low,Implement shade nets or use reflective mulch to reduce soil and air temperatures. Adjust light exposure if possible or use supplementary lighting.
+28/9/23,1:53:40,Potato,17.91,91.31,76.24,15831.79,Low,High,Ideal,High,Conditions are within the ideal range.
+3/2/24,7:23:28,Wheat,15.65,48.96,30.35,27052.43,Ideal,Low,Ideal,High,Consider installing a misting system or using organic mulch to raise humidity levels.
+5/2/24,22:35:29,Potato,23.02,79.87,61.95,16715.57,High,Low,Low,High,Implement shade nets or use reflective mulch to reduce soil and air temperatures. Consider installing a misting system or using organic mulch to raise humidity levels. Increase irrigation frequency or use soil moisture-retention techniques.
+16/2/24,16:04:57,Rice,25.3,79.43,53.02,8527.05,Ideal,Ideal,Low,Low,Increase irrigation frequency or use soil moisture-retention techniques. Adjust light exposure if possible or use supplementary lighting.
+15/11/23,19:17:32,Rice,31.18,63.44,83.04,9264.75,Ideal,Low,High,Low,Consider installing a misting system or using organic mulch to raise humidity levels. Adjust light exposure if possible or use supplementary lighting.
+15/2/24,21:20:28,Wheat,18.58,46.08,33.44,25759.76,Ideal,Low,Ideal,High,Consider installing a misting system or using organic mulch to raise humidity levels.
+29/1/24,14:19:56,Jute,22.48,72.78,35.73,48893.56,Low,Ideal,Low,Ideal,Increase irrigation frequency or use soil moisture-retention techniques.
+11/12/23,16:20:16,Potato,22.35,87.36,77.92,15481.11,High,Ideal,Ideal,High,Implement shade nets or use reflective mulch to reduce soil and air temperatures.
+9/1/24,11:07:53,Jute,23.45,85.2,68.98,29486.88,Low,High,High,Low,Adjust light exposure if possible or use supplementary lighting.
+6/9/24,9:21:11,Wheat,11.47,62.53,39.65,24972.36,Low,High,Ideal,Ideal,Conditions are within the ideal range.
+6/3/24,19:01:10,Wheat,11.67,69.6,17.61,12178.29,Low,High,Low,Low,Increase irrigation frequency or use soil moisture-retention techniques. Adjust light exposure if possible or use supplementary lighting.
+12/6/24,17:15:27,Rice,24.24,60.42,71.51,21200.28,Low,Low,Ideal,High,Consider installing a misting system or using organic mulch to raise humidity levels.
+4/10/23,21:19:55,Wheat,11.67,61.98,24.5,20302.57,Low,High,Ideal,Ideal,Conditions are within the ideal range.
+31/1/24,5:47:41,Potato,17.69,92.6,85.69,6610.07,Low,High,High,Low,Adjust light exposure if possible or use supplementary lighting.
+16/8/24,21:50:39,Potato,20.77,82.29,62.05,12473.72,Ideal,Ideal,Low,Ideal,Increase irrigation frequency or use soil moisture-retention techniques.
+21/6/24,5:45:33,Jute,36.19,70.81,30.13,26755.12,Ideal,Ideal,Low,Low,Increase irrigation frequency or use soil moisture-retention techniques. Adjust light exposure if possible or use supplementary lighting.
+3/11/23,5:23:50,Jute,39.89,70.75,55.2,49570.58,High,Ideal,Ideal,Ideal,Implement shade nets or use reflective mulch to reduce soil and air temperatures.
+4/8/24,0:22:48,Rice,22.79,96.63,72.13,18693.09,Low,High,Ideal,Ideal,Conditions are within the ideal range.
+7/9/24,19:15:15,Wheat,12.77,41.86,45.05,12741.08,Ideal,Low,High,Low,Consider installing a misting system or using organic mulch to raise humidity levels. Adjust light exposure if possible or use supplementary lighting.
+23/6/24,19:52:36,Jute,36.21,83.66,36.75,27704.27,Ideal,High,Low,Low,Increase irrigation frequency or use soil moisture-retention techniques. Adjust light exposure if possible or use supplementary lighting.
+25/1/24,3:07:45,Rice,23.9,86.7,57.57,15570.21,Low,Ideal,Low,Ideal,Increase irrigation frequency or use soil moisture-retention techniques.
+3/2/24,20:24:26,Sugarcane,31.74,59.33,78.97,26686.07,Ideal,Low,High,Ideal,Consider installing a misting system or using organic mulch to raise humidity levels.
+30/3/24,9:51:19,Wheat,17.71,44.76,42.01,18901.69,Ideal,Low,High,Ideal,Consider installing a misting system or using organic mulch to raise humidity levels.
+11/8/24,13:54:44,Wheat,10.65,57.41,45.59,27643,Low,Ideal,High,High,Conditions are within the ideal range.
+26/10/23,11:55:57,Wheat,19.7,55.86,48.24,17189.21,Ideal,Ideal,High,Ideal,Conditions are within the ideal range.
+7/7/24,11:53:41,Potato,15.88,84.97,86.74,16531.12,Low,Ideal,High,High,Conditions are within the ideal range.
+25/1/24,15:57:56,Potato,19.79,82.37,67.63,7285.28,Ideal,Ideal,Low,Low,Increase irrigation frequency or use soil moisture-retention techniques. Adjust light exposure if possible or use supplementary lighting.
+29/6/24,15:14:07,Jute,40.2,86.41,52.85,50796.64,High,High,Ideal,High,Implement shade nets or use reflective mulch to reduce soil and air temperatures.
+21/1/24,10:42:31,Wheat,27.38,41.81,18.99,27249.91,High,Low,Low,High,Implement shade nets or use reflective mulch to reduce soil and air temperatures. Consider installing a misting system or using organic mulch to raise humidity levels. Increase irrigation frequency or use soil moisture-retention techniques.
+23/7/24,6:59:12,Sugarcane,25.61,89.47,39.46,32986.83,Ideal,High,Low,High,Increase irrigation frequency or use soil moisture-retention techniques.
+8/9/24,12:39:12,Jute,30.89,64.77,69.21,29519.58,Ideal,Ideal,High,Low,Adjust light exposure if possible or use supplementary lighting.
+7/12/23,1:11:42,Wheat,10.98,67.58,33.85,25587.66,Low,High,Ideal,High,Conditions are within the ideal range.
+21/12/23,17:11:33,Sugarcane,34.07,82.3,42.98,19221.88,Ideal,High,Ideal,Low,Adjust light exposure if possible or use supplementary lighting.
+29/2/24,8:52:22,Jute,22.79,53.44,40,27508.83,Low,Low,Low,Low,Consider installing a misting system or using organic mulch to raise humidity levels. Increase irrigation frequency or use soil moisture-retention techniques. Adjust light exposure if possible or use supplementary lighting.
+9/5/24,18:35:23,Rice,35.68,84.44,57.37,19979.97,High,Ideal,Low,Ideal,Implement shade nets or use reflective mulch to reduce soil and air temperatures. Increase irrigation frequency or use soil moisture-retention techniques.
+5/3/24,16:28:13,Jute,22.79,54.76,49.64,29975.86,Low,Low,Ideal,Low,Consider installing a misting system or using organic mulch to raise humidity levels. Adjust light exposure if possible or use supplementary lighting.
+19/12/23,4:43:52,Potato,20.82,82.68,78.44,6551.84,Ideal,Ideal,Ideal,Low,Adjust light exposure if possible or use supplementary lighting.
+17/4/24,8:18:16,Jute,26.78,66.98,61.16,31212.78,Ideal,Ideal,High,Ideal,Conditions are within the ideal range.
+31/3/24,10:07:39,Potato,20.17,88.2,65.42,8859.24,Ideal,Ideal,Low,Ideal,Increase irrigation frequency or use soil moisture-retention techniques.
+16/6/24,20:34:12,Potato,16.26,85.51,87.13,15385.12,Low,Ideal,High,High,Conditions are within the ideal range.
+12/8/24,17:06:33,Sugarcane,25.7,76.66,30.43,22567.38,Ideal,Ideal,Low,Ideal,Increase irrigation frequency or use soil moisture-retention techniques.
+11/4/24,0:41:17,Rice,23.39,87.73,83.33,8374.5,Low,Ideal,High,Low,Adjust light exposure if possible or use supplementary lighting.
+23/7/24,15:56:20,Potato,24.57,74.57,68.91,12116.68,High,Low,Low,Ideal,Implement shade nets or use reflective mulch to reduce soil and air temperatures. Consider installing a misting system or using organic mulch to raise humidity levels. Increase irrigation frequency or use soil moisture-retention techniques.
+12/1/24,5:43:41,Rice,34.14,95.31,60.45,17515.61,Ideal,High,Ideal,Ideal,Conditions are within the ideal range.
+30/7/24,7:54:47,Jute,24.13,56.39,36.91,37445.02,Ideal,Low,Low,Ideal,Consider installing a misting system or using organic mulch to raise humidity levels. Increase irrigation frequency or use soil moisture-retention techniques.
+22/4/24,18:41:08,Jute,20.2,86.59,66.38,27125.89,Low,High,High,Low,Adjust light exposure if possible or use supplementary lighting.
+3/9/24,6:14:10,Potato,17.16,90.2,80.98,16195.65,Low,High,Ideal,High,Conditions are within the ideal range.
+21/8/24,19:48:40,Potato,24.62,88.52,71.71,6942.29,High,Ideal,Ideal,Low,Implement shade nets or use reflective mulch to reduce soil and air temperatures. Adjust light exposure if possible or use supplementary lighting.
+6/8/24,8:13:44,Jute,21.75,89.53,67.13,41098.24,Low,High,High,Ideal,Conditions are within the ideal range.
+11/2/24,11:27:55,Sugarcane,20.36,58.04,49.53,31083.28,Low,Low,Ideal,High,Consider installing a misting system or using organic mulch to raise humidity levels.
+13/9/24,20:36:09,Potato,21.19,85.54,68.73,16603.5,Ideal,Ideal,Low,High,Increase irrigation frequency or use soil moisture-retention techniques.
+20/1/24,9:33:39,Wheat,10.42,44.96,35.56,26229.02,Low,Low,Ideal,High,Consider installing a misting system or using organic mulch to raise humidity levels.
+16/9/24,13:51:52,Sugarcane,24.24,55.11,38.83,31816.36,Low,Low,Low,High,Consider installing a misting system or using organic mulch to raise humidity levels. Increase irrigation frequency or use soil moisture-retention techniques.
+25/5/24,21:34:41,Rice,22.72,60.21,82.96,16590.92,Low,Low,High,Ideal,Consider installing a misting system or using organic mulch to raise humidity levels.
+22/2/24,5:12:18,Potato,22.69,93.54,67.99,16173.4,High,High,Low,High,Implement shade nets or use reflective mulch to reduce soil and air temperatures. Increase irrigation frequency or use soil moisture-retention techniques.
+2/11/23,7:55:36,Rice,34.49,96.36,53.91,11372.41,Ideal,High,Low,Ideal,Increase irrigation frequency or use soil moisture-retention techniques.
+24/2/24,0:28:28,Jute,35.35,53.14,65.15,43810.38,Ideal,Low,High,Ideal,Consider installing a misting system or using organic mulch to raise humidity levels.
+29/9/23,9:40:19,Sugarcane,37.32,82.33,75.4,25858.83,High,High,High,Ideal,Implement shade nets or use reflective mulch to reduce soil and air temperatures.
+19/6/24,8:54:03,Sugarcane,37.63,80.72,40.4,33803.41,High,High,Ideal,High,Implement shade nets or use reflective mulch to reduce soil and air temperatures.
+11/11/23,22:15:22,Rice,37.34,86.35,62.44,16658.58,High,Ideal,Ideal,Ideal,Implement shade nets or use reflective mulch to reduce soil and air temperatures.
+30/3/24,12:02:15,Rice,39.48,79.65,64.85,17065.19,High,Ideal,Ideal,Ideal,Implement shade nets or use reflective mulch to reduce soil and air temperatures.
+9/6/24,1:23:50,Sugarcane,23.65,74.04,67.41,18419.57,Low,Ideal,Ideal,Low,Adjust light exposure if possible or use supplementary lighting.
+14/9/24,16:08:08,Potato,17.18,87.77,66.03,15371.63,Low,Ideal,Low,High,Increase irrigation frequency or use soil moisture-retention techniques.
+3/9/24,10:27:19,Jute,20.42,79.52,55.23,53952.88,Low,Ideal,Ideal,High,Conditions are within the ideal range.
+8/5/24,10:19:56,Potato,24.22,70.08,88.8,11950.81,High,Low,High,Ideal,Implement shade nets or use reflective mulch to reduce soil and air temperatures. Consider installing a misting system or using organic mulch to raise humidity levels.
+9/12/23,14:05:21,Sugarcane,32.06,68.79,40.83,31853.69,Ideal,Ideal,Ideal,High,Conditions are within the ideal range.
+9/10/23,23:03:14,Jute,38.07,75.52,65.41,54713.62,High,Ideal,High,High,Implement shade nets or use reflective mulch to reduce soil and air temperatures.
+1/9/24,6:04:44,Wheat,26.12,65.08,25.68,12397.57,High,High,Ideal,Low,Implement shade nets or use reflective mulch to reduce soil and air temperatures. Adjust light exposure if possible or use supplementary lighting.
+28/11/23,22:22:38,Potato,17.36,86.83,73.89,13748.88,Low,Ideal,Ideal,Ideal,Conditions are within the ideal range.
+28/11/23,13:33:30,Jute,23.78,60.98,57.16,25446.58,Low,Ideal,Ideal,Low,Adjust light exposure if possible or use supplementary lighting.
+6/4/24,5:29:26,Potato,17.93,84.96,87.21,16094.52,Low,Ideal,High,High,Conditions are within the ideal range.
+5/11/23,19:33:40,Rice,29.67,75.25,51.91,11882.87,Ideal,Ideal,Low,Ideal,Increase irrigation frequency or use soil moisture-retention techniques.
+12/9/24,4:16:20,Wheat,12.14,42.76,34.35,18039.15,Ideal,Low,Ideal,Ideal,Consider installing a misting system or using organic mulch to raise humidity levels.
+27/4/24,3:12:49,Potato,23.12,90.7,69.96,12258.67,High,High,Low,Ideal,Implement shade nets or use reflective mulch to reduce soil and air temperatures. Increase irrigation frequency or use soil moisture-retention techniques.
+29/7/24,21:17:30,Jute,22.01,68.78,54.75,47236.34,Low,Ideal,Ideal,Ideal,Conditions are within the ideal range.
+19/1/24,19:28:43,Rice,36.32,68.47,87.96,20847.01,High,Low,High,High,Implement shade nets or use reflective mulch to reduce soil and air temperatures. Consider installing a misting system or using organic mulch to raise humidity levels.
+26/3/24,14:35:55,Wheat,14.15,64.49,46.48,17786.39,Ideal,High,High,Ideal,Conditions are within the ideal range.
+26/5/24,4:23:57,Sugarcane,24.64,55.94,71.48,19825.26,Low,Low,High,Low,Consider installing a misting system or using organic mulch to raise humidity levels. Adjust light exposure if possible or use supplementary lighting.
+24/11/23,23:42:30,Wheat,23.31,56.21,10.07,25817.62,Ideal,Ideal,Low,High,Increase irrigation frequency or use soil moisture-retention techniques.
+10/3/24,3:06:51,Jute,41.26,55.04,65.4,51299.03,High,Low,High,High,Implement shade nets or use reflective mulch to reduce soil and air temperatures. Consider installing a misting system or using organic mulch to raise humidity levels.
+5/2/24,15:22:26,Potato,21.79,87.31,87.83,11158.39,Ideal,Ideal,High,Ideal,Conditions are within the ideal range.
+3/11/23,23:24:40,Rice,23.2,62.25,76.42,20225.74,Low,Low,Ideal,High,Consider installing a misting system or using organic mulch to raise humidity levels.
+5/7/24,9:15:36,Jute,23.42,73.06,62.61,38741.04,Low,Ideal,High,Ideal,Conditions are within the ideal range.
+26/9/23,20:36:19,Jute,31.01,54.39,69.11,28622.99,Ideal,Low,High,Low,Consider installing a misting system or using organic mulch to raise humidity levels. Adjust light exposure if possible or use supplementary lighting.
+10/12/23,18:26:46,Jute,22.89,84.89,64.82,54131.85,Low,High,High,High,Conditions are within the ideal range.
+22/1/24,3:55:40,Sugarcane,22.33,55.02,50.31,19561.48,Low,Low,Ideal,Low,Consider installing a misting system or using organic mulch to raise humidity levels. Adjust light exposure if possible or use supplementary lighting.
+2/12/23,1:03:54,Jute,41.39,51.06,52.06,46995.8,High,Low,Ideal,Ideal,Implement shade nets or use reflective mulch to reduce soil and air temperatures. Consider installing a misting system or using organic mulch to raise humidity levels.
+1/9/24,23:01:41,Jute,39.83,80.35,43.75,53375.57,High,High,Ideal,High,Implement shade nets or use reflective mulch to reduce soil and air temperatures.
+10/6/24,11:35:30,Wheat,11.52,55.17,10.88,16722.42,Low,Ideal,Low,Ideal,Increase irrigation frequency or use soil moisture-retention techniques.
+16/12/23,6:56:59,Sugarcane,22.62,59.16,37.36,22825.05,Low,Low,Low,Ideal,Consider installing a misting system or using organic mulch to raise humidity levels. Increase irrigation frequency or use soil moisture-retention techniques.
+15/10/23,18:37:15,Sugarcane,23.94,64.25,39.88,26551.51,Low,Ideal,Low,Ideal,Increase irrigation frequency or use soil moisture-retention techniques.
+20/5/24,6:50:15,Potato,24.46,81.56,85.45,7315.13,High,Ideal,High,Low,Implement shade nets or use reflective mulch to reduce soil and air temperatures. Adjust light exposure if possible or use supplementary lighting.
+26/6/24,15:24:29,Potato,21.52,80.02,67.57,15732.18,Ideal,Ideal,Low,High,Increase irrigation frequency or use soil moisture-retention techniques.
+5/5/24,20:24:16,Jute,21.63,83.39,63.66,52763.2,Low,High,High,High,Conditions are within the ideal range.
+27/4/24,9:44:45,Wheat,26.98,57.61,30.1,12317.75,High,Ideal,Ideal,Low,Implement shade nets or use reflective mulch to reduce soil and air temperatures. Adjust light exposure if possible or use supplementary lighting.
+26/6/24,10:34:08,Jute,40.75,57.1,47.91,53490.67,High,Low,Ideal,High,Implement shade nets or use reflective mulch to reduce soil and air temperatures. Consider installing a misting system or using organic mulch to raise humidity levels.
+21/10/23,5:06:01,Sugarcane,26.69,73.95,73.88,30476.37,Ideal,Ideal,High,High,Conditions are within the ideal range.
+1/8/24,4:06:04,Jute,23.79,89.33,67.8,26596.15,Low,High,High,Low,Adjust light exposure if possible or use supplementary lighting.
+29/7/24,20:35:24,Rice,34.79,65.35,77.68,10330.43,Ideal,Low,Ideal,Ideal,Consider installing a misting system or using organic mulch to raise humidity levels.
+22/6/24,5:18:27,Potato,19.77,93,85.31,15223.63,Ideal,High,High,High,Conditions are within the ideal range.
+11/3/24,21:38:28,Wheat,14.54,50.15,12.62,24059.18,Ideal,Ideal,Low,Ideal,Increase irrigation frequency or use soil moisture-retention techniques.
+24/4/24,3:38:36,Rice,23.98,99.93,73.13,8576.84,Low,High,Ideal,Low,Adjust light exposure if possible or use supplementary lighting.
+9/3/24,14:15:49,Wheat,11.51,52.93,13.51,12791.31,Low,Ideal,Low,Low,Increase irrigation frequency or use soil moisture-retention techniques. Adjust light exposure if possible or use supplementary lighting.
+7/5/24,20:32:48,Jute,24.49,53.96,30.28,28164.47,Ideal,Low,Low,Low,Consider installing a misting system or using organic mulch to raise humidity levels. Increase irrigation frequency or use soil moisture-retention techniques. Adjust light exposure if possible or use supplementary lighting.
+13/6/24,16:25:14,Jute,20.93,74.43,30.97,27132.03,Low,Ideal,Low,Low,Increase irrigation frequency or use soil moisture-retention techniques. Adjust light exposure if possible or use supplementary lighting.
+6/1/24,23:40:45,Jute,34.77,64.61,39.54,41677.67,Ideal,Ideal,Low,Ideal,Increase irrigation frequency or use soil moisture-retention techniques.
+17/4/24,22:22:54,Jute,31.94,59.27,36.17,50907.64,Ideal,Low,Low,High,Consider installing a misting system or using organic mulch to raise humidity levels. Increase irrigation frequency or use soil moisture-retention techniques.
+23/4/24,18:54:06,Sugarcane,35.03,55.27,53.82,20815.57,High,Low,Ideal,Ideal,Implement shade nets or use reflective mulch to reduce soil and air temperatures. Consider installing a misting system or using organic mulch to raise humidity levels.
+20/2/24,4:54:38,Potato,17.22,94.58,74.1,9458.56,Low,High,Ideal,Ideal,Conditions are within the ideal range.
+31/3/24,1:26:09,Wheat,11.52,43.04,43.81,26529.67,Low,Low,High,High,Consider installing a misting system or using organic mulch to raise humidity levels.
+30/9/23,15:53:45,Wheat,12.43,69.08,14.84,16231.24,Ideal,High,Low,Ideal,Increase irrigation frequency or use soil moisture-retention techniques.
+25/3/24,5:37:51,Wheat,11.89,68.75,47.83,13665.09,Low,High,High,Low,Adjust light exposure if possible or use supplementary lighting.
+28/2/24,20:04:08,Potato,21.88,91.85,89.49,11017.25,Ideal,High,High,Ideal,Conditions are within the ideal range.
+10/10/23,16:35:04,Rice,23.48,65.7,75.75,20862.22,Low,Low,Ideal,High,Consider installing a misting system or using organic mulch to raise humidity levels.
+7/2/24,4:36:53,Wheat,12.58,50.66,21.37,26744.82,Ideal,Ideal,Ideal,High,Conditions are within the ideal range.
+6/4/24,7:04:31,Potato,16.27,81.1,68.03,6152.91,Low,Ideal,Low,Low,Increase irrigation frequency or use soil moisture-retention techniques. Adjust light exposure if possible or use supplementary lighting.
+11/1/24,6:13:50,Wheat,11.36,40.95,48.18,16119.97,Low,Low,High,Ideal,Consider installing a misting system or using organic mulch to raise humidity levels.
+19/1/24,17:24:49,Rice,33.26,89.02,64.72,13831.38,Ideal,Ideal,Ideal,Ideal,Conditions are within the ideal range.
+14/12/23,19:50:00,Wheat,26.6,44.74,47.11,24359.92,High,Low,High,Ideal,Implement shade nets or use reflective mulch to reduce soil and air temperatures. Consider installing a misting system or using organic mulch to raise humidity levels.
+28/8/24,11:49:30,Sugarcane,30.12,89.62,76.8,19673.72,Ideal,High,High,Low,Adjust light exposure if possible or use supplementary lighting.
+26/2/24,9:10:13,Potato,22.21,74.73,64.58,7822.8,High,Low,Low,Low,Implement shade nets or use reflective mulch to reduce soil and air temperatures. Consider installing a misting system or using organic mulch to raise humidity levels. Increase irrigation frequency or use soil moisture-retention techniques. Adjust light exposure if possible or use supplementary lighting.
+14/8/24,4:16:49,Wheat,27.18,68.26,38.72,26245.55,High,High,Ideal,High,Implement shade nets or use reflective mulch to reduce soil and air temperatures.
+28/4/24,9:55:56,Potato,16.28,73.09,87.31,7357.43,Low,Low,High,Low,Consider installing a misting system or using organic mulch to raise humidity levels. Adjust light exposure if possible or use supplementary lighting.
+7/11/23,17:36:05,Jute,39.37,71.26,60.59,40635.9,High,Ideal,High,Ideal,Implement shade nets or use reflective mulch to reduce soil and air temperatures.
+12/2/24,2:40:39,Rice,27.5,89.35,80.6,13844.4,Ideal,Ideal,High,Ideal,Conditions are within the ideal range.
+14/12/23,15:55:50,Sugarcane,22.28,59.87,60.62,26972.01,Low,Low,Ideal,Ideal,Consider installing a misting system or using organic mulch to raise humidity levels.
+11/7/24,18:39:37,Jute,21.31,62.09,35.51,25429.05,Low,Ideal,Low,Low,Increase irrigation frequency or use soil moisture-retention techniques. Adjust light exposure if possible or use supplementary lighting.
+8/8/24,5:38:31,Rice,21.13,68.36,80.02,19534.31,Low,Low,High,Ideal,Consider installing a misting system or using organic mulch to raise humidity levels.
+5/3/24,2:03:23,Potato,16.12,78.06,69.28,7381.2,Low,Low,Low,Low,Consider installing a misting system or using organic mulch to raise humidity levels. Increase irrigation frequency or use soil moisture-retention techniques. Adjust light exposure if possible or use supplementary lighting.
+11/3/24,4:42:57,Wheat,26.12,42.72,17.16,12285.72,High,Low,Low,Low,Implement shade nets or use reflective mulch to reduce soil and air temperatures. Consider installing a misting system or using organic mulch to raise humidity levels. Increase irrigation frequency or use soil moisture-retention techniques. Adjust light exposure if possible or use supplementary lighting.
+3/11/23,5:59:58,Potato,22.01,74.59,84.8,7309.07,High,Low,Ideal,Low,Implement shade nets or use reflective mulch to reduce soil and air temperatures. Consider installing a misting system or using organic mulch to raise humidity levels. Adjust light exposure if possible or use supplementary lighting.
+7/7/24,20:49:20,Jute,28.32,83.04,55.25,51674.53,Ideal,High,Ideal,High,Conditions are within the ideal range.
+10/12/23,14:29:28,Sugarcane,21.27,71.7,79.41,32596.67,Low,Ideal,High,High,Conditions are within the ideal range.
+8/11/23,4:47:37,Rice,38.37,67.09,54.52,9563.03,High,Low,Low,Low,Implement shade nets or use reflective mulch to reduce soil and air temperatures. Consider installing a misting system or using organic mulch to raise humidity levels. Increase irrigation frequency or use soil moisture-retention techniques. Adjust light exposure if possible or use supplementary lighting.
+16/12/23,9:33:50,Wheat,26.26,51.23,33.49,20508.81,High,Ideal,Ideal,Ideal,Implement shade nets or use reflective mulch to reduce soil and air temperatures.
+27/11/23,0:49:25,Sugarcane,37.46,52.2,57.07,18827.94,High,Low,Ideal,Low,Implement shade nets or use reflective mulch to reduce soil and air temperatures. Consider installing a misting system or using organic mulch to raise humidity levels. Adjust light exposure if possible or use supplementary lighting.
+7/7/24,14:11:54,Rice,29.67,93.06,67.76,18362.33,Ideal,High,Ideal,Ideal,Conditions are within the ideal range.
+29/10/23,18:29:32,Sugarcane,37.21,88.84,68.24,34735.29,High,High,Ideal,High,Implement shade nets or use reflective mulch to reduce soil and air temperatures.
+12/5/24,4:32:37,Jute,39.76,52.47,62.1,31970.72,High,Low,High,Ideal,Implement shade nets or use reflective mulch to reduce soil and air temperatures. Consider installing a misting system or using organic mulch to raise humidity levels.
+26/10/23,6:44:28,Sugarcane,20.91,54.1,38.23,31740.54,Low,Low,Low,High,Consider installing a misting system or using organic mulch to raise humidity levels. Increase irrigation frequency or use soil moisture-retention techniques.
+3/8/24,15:19:23,Jute,37.48,73.7,38.29,52885.69,Ideal,Ideal,Low,High,Increase irrigation frequency or use soil moisture-retention techniques.
+15/2/24,23:04:25,Rice,28.08,74.92,51.51,8910.49,Ideal,Ideal,Low,Low,Increase irrigation frequency or use soil moisture-retention techniques. Adjust light exposure if possible or use supplementary lighting.
+7/2/24,16:38:11,Jute,41.62,59.23,60.46,27795.91,High,Low,High,Low,Implement shade nets or use reflective mulch to reduce soil and air temperatures. Consider installing a misting system or using organic mulch to raise humidity levels. Adjust light exposure if possible or use supplementary lighting.
+18/5/24,6:32:34,Sugarcane,23.06,62.34,73.94,21987.84,Low,Ideal,High,Ideal,Conditions are within the ideal range.
+17/1/24,20:31:28,Jute,36.85,89.93,57.4,26753.88,Ideal,High,Ideal,Low,Adjust light exposure if possible or use supplementary lighting.
+22/11/23,9:38:07,Sugarcane,35.85,74.51,31.25,34194.38,High,Ideal,Low,High,Implement shade nets or use reflective mulch to reduce soil and air temperatures. Increase irrigation frequency or use soil moisture-retention techniques.
+8/3/24,7:48:33,Rice,37.42,63.1,57.97,9178.8,High,Low,Low,Low,Implement shade nets or use reflective mulch to reduce soil and air temperatures. Consider installing a misting system or using organic mulch to raise humidity levels. Increase irrigation frequency or use soil moisture-retention techniques. Adjust light exposure if possible or use supplementary lighting.
+14/5/24,9:08:36,Wheat,11.44,44.84,43.47,23409.48,Low,Low,High,Ideal,Consider installing a misting system or using organic mulch to raise humidity levels.
+3/2/24,2:17:25,Sugarcane,38.92,61.91,39.24,18527.86,High,Ideal,Low,Low,Implement shade nets or use reflective mulch to reduce soil and air temperatures. Increase irrigation frequency or use soil moisture-retention techniques. Adjust light exposure if possible or use supplementary lighting.
+7/8/24,4:50:08,Wheat,25.87,59.55,29.99,27316.99,High,Ideal,Ideal,High,Implement shade nets or use reflective mulch to reduce soil and air temperatures.
+14/2/24,7:36:00,Rice,32.33,68.97,78.44,20408.07,Ideal,Low,Ideal,High,Consider installing a misting system or using organic mulch to raise humidity levels.
+2/9/24,5:17:47,Sugarcane,21.77,79.14,30.78,18371.54,Low,Ideal,Low,Low,Increase irrigation frequency or use soil moisture-retention techniques. Adjust light exposure if possible or use supplementary lighting.
+19/1/24,12:52:50,Rice,24.52,63.45,75.51,17760.95,Low,Low,Ideal,Ideal,Consider installing a misting system or using organic mulch to raise humidity levels.
+4/1/24,4:28:22,Potato,17.44,87.16,61.31,8889.04,Low,Ideal,Low,Ideal,Increase irrigation frequency or use soil moisture-retention techniques.
+13/9/24,10:49:38,Sugarcane,20.81,78.39,74.5,20977.69,Low,Ideal,High,Ideal,Conditions are within the ideal range.
+25/6/24,10:18:05,Wheat,27.09,45.43,25.53,21030.89,High,Low,Ideal,Ideal,Implement shade nets or use reflective mulch to reduce soil and air temperatures. Consider installing a misting system or using organic mulch to raise humidity levels.
+11/10/23,20:06:50,Sugarcane,38.27,72.19,77.4,18306.06,High,Ideal,High,Low,Implement shade nets or use reflective mulch to reduce soil and air temperatures. Adjust light exposure if possible or use supplementary lighting.
+8/8/24,12:37:28,Sugarcane,34.46,89.85,79.22,32992.7,Ideal,High,High,High,Conditions are within the ideal range.
+29/4/24,21:56:12,Sugarcane,32.45,51.37,61.2,18075.97,Ideal,Low,Ideal,Low,Consider installing a misting system or using organic mulch to raise humidity levels. Adjust light exposure if possible or use supplementary lighting.
+4/7/24,22:36:15,Potato,19.98,81.69,67.31,7215.56,Ideal,Ideal,Low,Low,Increase irrigation frequency or use soil moisture-retention techniques. Adjust light exposure if possible or use supplementary lighting.
+19/3/24,17:55:15,Sugarcane,21.72,64.4,42.69,28096.38,Low,Ideal,Ideal,Ideal,Conditions are within the ideal range.
+12/8/24,16:38:15,Jute,41.49,77.11,43.16,49417.8,High,Ideal,Ideal,Ideal,Implement shade nets or use reflective mulch to reduce soil and air temperatures.
+31/3/24,3:10:19,Jute,41.19,84.32,31.45,25504.3,High,High,Low,Low,Implement shade nets or use reflective mulch to reduce soil and air temperatures. Increase irrigation frequency or use soil moisture-retention techniques. Adjust light exposure if possible or use supplementary lighting.
+6/11/23,4:36:33,Wheat,10.53,60.13,24,23540.02,Low,High,Ideal,Ideal,Conditions are within the ideal range.
+11/6/24,21:28:50,Rice,20.23,99.45,63.97,21579.66,Low,High,Ideal,High,Conditions are within the ideal range.
+1/4/24,8:46:40,Wheat,12.7,56.11,49.07,16374.6,Ideal,Ideal,High,Ideal,Conditions are within the ideal range.
+14/2/24,14:20:32,Sugarcane,39.54,56.57,69.02,28609.22,High,Low,Ideal,Ideal,Implement shade nets or use reflective mulch to reduce soil and air temperatures. Consider installing a misting system or using organic mulch to raise humidity levels.
+12/7/24,1:45:20,Jute,21.19,50.21,58.43,46630.72,Low,Low,Ideal,Ideal,Consider installing a misting system or using organic mulch to raise humidity levels.
+5/12/23,18:09:27,Wheat,11.09,52.27,48.17,27606.6,Low,Ideal,High,High,Conditions are within the ideal range.
+8/10/23,7:24:38,Jute,34.43,52.71,59.7,52061.36,Ideal,Low,Ideal,High,Consider installing a misting system or using organic mulch to raise humidity levels.
+23/3/24,0:51:24,Wheat,11.74,65.29,11.61,27118.98,Low,High,Low,High,Increase irrigation frequency or use soil moisture-retention techniques.
+1/8/24,21:41:23,Wheat,10.22,59.6,39.07,12874.16,Low,Ideal,Ideal,Low,Adjust light exposure if possible or use supplementary lighting.
+4/8/24,10:32:44,Sugarcane,37.71,58.4,31.09,18185.28,High,Low,Low,Low,Implement shade nets or use reflective mulch to reduce soil and air temperatures. Consider installing a misting system or using organic mulch to raise humidity levels. Increase irrigation frequency or use soil moisture-retention techniques. Adjust light exposure if possible or use supplementary lighting.
+26/8/24,6:00:47,Rice,22.1,91.92,77.43,8028.22,Low,High,Ideal,Low,Adjust light exposure if possible or use supplementary lighting.
+4/3/24,20:06:15,Wheat,17.43,65.21,20.43,15565.18,Ideal,High,Ideal,Ideal,Conditions are within the ideal range.
+17/7/24,16:13:18,Jute,21.54,51.66,51.77,53944.52,Low,Low,Ideal,High,Consider installing a misting system or using organic mulch to raise humidity levels.
+18/4/24,3:20:48,Wheat,13.98,53.53,15.5,17127.83,Ideal,Ideal,Low,Ideal,Increase irrigation frequency or use soil moisture-retention techniques.
+4/12/23,6:04:25,Rice,24.05,91.48,80.42,20805.41,Low,High,High,High,Conditions are within the ideal range.
+8/5/24,12:11:13,Jute,33.24,51.49,35.51,53019.03,Ideal,Low,Low,High,Consider installing a misting system or using organic mulch to raise humidity levels. Increase irrigation frequency or use soil moisture-retention techniques.
+10/2/24,11:10:39,Jute,41.74,87.07,30.71,28061.25,High,High,Low,Low,Implement shade nets or use reflective mulch to reduce soil and air temperatures. Increase irrigation frequency or use soil moisture-retention techniques. Adjust light exposure if possible or use supplementary lighting.
+1/4/24,4:49:57,Sugarcane,36.69,75.15,78.04,33989.65,High,Ideal,High,High,Implement shade nets or use reflective mulch to reduce soil and air temperatures.
+16/1/24,4:45:34,Sugarcane,39.2,86.21,77.7,23898.82,High,High,High,Ideal,Implement shade nets or use reflective mulch to reduce soil and air temperatures.
+1/8/24,0:05:11,Wheat,11.97,68.93,49.91,14859.35,Low,High,High,Low,Adjust light exposure if possible or use supplementary lighting.
+30/7/24,10:51:01,Sugarcane,35.97,51.14,71.16,18038.58,High,Low,High,Low,Implement shade nets or use reflective mulch to reduce soil and air temperatures. Consider installing a misting system or using organic mulch to raise humidity levels. Adjust light exposure if possible or use supplementary lighting.
+6/5/24,2:22:20,Rice,29.58,73.1,52.07,8846.53,Ideal,Ideal,Low,Low,Increase irrigation frequency or use soil moisture-retention techniques. Adjust light exposure if possible or use supplementary lighting.
+26/5/24,6:37:56,Potato,23.27,79.38,70.98,13653.95,High,Low,Ideal,Ideal,Implement shade nets or use reflective mulch to reduce soil and air temperatures. Consider installing a misting system or using organic mulch to raise humidity levels.
+15/5/24,17:44:37,Jute,27.71,87.2,31.01,41628.8,Ideal,High,Low,Ideal,Increase irrigation frequency or use soil moisture-retention techniques.
+23/5/24,16:20:24,Jute,41.82,67.59,67.75,28315.21,High,Ideal,High,Low,Implement shade nets or use reflective mulch to reduce soil and air temperatures. Adjust light exposure if possible or use supplementary lighting.
+13/1/24,16:13:19,Jute,20.78,62.33,33.59,28485.66,Low,Ideal,Low,Low,Increase irrigation frequency or use soil moisture-retention techniques. Adjust light exposure if possible or use supplementary lighting.
+4/3/24,23:20:19,Potato,23.23,76.25,70.15,16493.97,High,Low,Ideal,High,Implement shade nets or use reflective mulch to reduce soil and air temperatures. Consider installing a misting system or using organic mulch to raise humidity levels.
+13/4/24,4:15:12,Wheat,11.08,48.96,14.26,12021.89,Low,Low,Low,Low,Consider installing a misting system or using organic mulch to raise humidity levels. Increase irrigation frequency or use soil moisture-retention techniques. Adjust light exposure if possible or use supplementary lighting.
+8/5/24,4:56:13,Rice,24.82,64.01,87.43,21434.19,Low,Low,High,High,Consider installing a misting system or using organic mulch to raise humidity levels.
+8/11/23,19:37:13,Rice,36.5,97.77,87.41,21420.86,High,High,High,High,Implement shade nets or use reflective mulch to reduce soil and air temperatures.
+25/8/24,14:04:38,Jute,26.09,80.59,38.4,25826.74,Ideal,High,Low,Low,Increase irrigation frequency or use soil moisture-retention techniques. Adjust light exposure if possible or use supplementary lighting.
+31/3/24,1:04:54,Rice,29.28,78.26,79.03,8095.66,Ideal,Ideal,Ideal,Low,Adjust light exposure if possible or use supplementary lighting.
+25/7/24,2:14:10,Sugarcane,34.77,80.33,53.63,24926.75,Ideal,High,Ideal,Ideal,Conditions are within the ideal range.
+24/7/24,8:55:41,Jute,29.59,74.92,36.33,53771.13,Ideal,Ideal,Low,High,Increase irrigation frequency or use soil moisture-retention techniques.
+4/11/23,4:43:26,Jute,38.45,70.22,63.95,25854.11,High,Ideal,High,Low,Implement shade nets or use reflective mulch to reduce soil and air temperatures. Adjust light exposure if possible or use supplementary lighting.
+23/4/24,1:08:15,Wheat,13.55,68.57,43.32,13059.88,Ideal,High,High,Low,Adjust light exposure if possible or use supplementary lighting.
+19/12/23,10:48:19,Jute,21.93,80.22,64.35,51530.45,Low,High,High,High,Conditions are within the ideal range.
+29/11/23,17:45:59,Potato,22.42,91.58,89.55,6748.24,High,High,High,Low,Implement shade nets or use reflective mulch to reduce soil and air temperatures. Adjust light exposure if possible or use supplementary lighting.
+18/10/23,21:15:08,Jute,38.92,82.18,66.7,28630.06,High,High,High,Low,Implement shade nets or use reflective mulch to reduce soil and air temperatures. Adjust light exposure if possible or use supplementary lighting.
+18/3/24,22:19:58,Wheat,26.53,44.04,11.78,16155.68,High,Low,Low,Ideal,Implement shade nets or use reflective mulch to reduce soil and air temperatures. Consider installing a misting system or using organic mulch to raise humidity levels. Increase irrigation frequency or use soil moisture-retention techniques.
+11/10/23,3:49:41,Potato,16.61,80.87,89.27,9315.7,Low,Ideal,High,Ideal,Conditions are within the ideal range.
+22/6/24,2:18:57,Potato,18.75,74.94,69.56,15589.16,Ideal,Low,Low,High,Consider installing a misting system or using organic mulch to raise humidity levels. Increase irrigation frequency or use soil moisture-retention techniques.
+6/10/23,22:57:45,Wheat,21.57,47.42,47.29,22153.52,Ideal,Low,High,Ideal,Consider installing a misting system or using organic mulch to raise humidity levels.
+13/11/23,6:21:07,Jute,21.28,71.28,49.89,39679.36,Low,Ideal,Ideal,Ideal,Conditions are within the ideal range.
+7/9/24,2:35:29,Potato,20.05,70.08,76.64,6292.22,Ideal,Low,Ideal,Low,Consider installing a misting system or using organic mulch to raise humidity levels. Adjust light exposure if possible or use supplementary lighting.
+12/3/24,13:06:56,Rice,39.78,60.64,63.26,18436.93,High,Low,Ideal,Ideal,Implement shade nets or use reflective mulch to reduce soil and air temperatures. Consider installing a misting system or using organic mulch to raise humidity levels.
+28/7/24,10:08:22,Wheat,25.82,52.56,39.6,14587.9,High,Ideal,Ideal,Low,Implement shade nets or use reflective mulch to reduce soil and air temperatures. Adjust light exposure if possible or use supplementary lighting.
+20/9/24,4:45:12,Jute,21.82,59.57,33.72,53917.64,Low,Low,Low,High,Consider installing a misting system or using organic mulch to raise humidity levels. Increase irrigation frequency or use soil moisture-retention techniques.
+18/10/23,9:31:50,Rice,22.77,97.03,87.91,20656.49,Low,High,High,High,Conditions are within the ideal range.
+15/3/24,22:04:21,Potato,15.68,79.35,82.64,6456.98,Low,Low,Ideal,Low,Consider installing a misting system or using organic mulch to raise humidity levels. Adjust light exposure if possible or use supplementary lighting.
+11/3/24,10:47:57,Potato,17.93,79.35,60.64,7666.23,Low,Low,Low,Low,Consider installing a misting system or using organic mulch to raise humidity levels. Increase irrigation frequency or use soil moisture-retention techniques. Adjust light exposure if possible or use supplementary lighting.
+13/10/23,2:03:46,Wheat,22.64,45.69,11.18,26793.6,Ideal,Low,Low,High,Consider installing a misting system or using organic mulch to raise humidity levels. Increase irrigation frequency or use soil moisture-retention techniques.
+1/11/23,16:25:27,Jute,38.98,83.4,51.19,28726.89,High,High,Ideal,Low,Implement shade nets or use reflective mulch to reduce soil and air temperatures. Adjust light exposure if possible or use supplementary lighting.
+24/9/23,22:46:03,Wheat,15.15,42.67,42.74,25982.17,Ideal,Low,High,High,Consider installing a misting system or using organic mulch to raise humidity levels.
+30/11/23,6:54:55,Sugarcane,37.19,56.57,75.17,18472.34,High,Low,High,Low,Implement shade nets or use reflective mulch to reduce soil and air temperatures. Consider installing a misting system or using organic mulch to raise humidity levels. Adjust light exposure if possible or use supplementary lighting.
+16/8/24,2:24:59,Jute,39.56,53.87,68.7,41802.06,High,Low,High,Ideal,Implement shade nets or use reflective mulch to reduce soil and air temperatures. Consider installing a misting system or using organic mulch to raise humidity levels.
+4/5/24,9:50:35,Potato,22.46,82.58,68.48,6507.74,High,Ideal,Low,Low,Implement shade nets or use reflective mulch to reduce soil and air temperatures. Increase irrigation frequency or use soil moisture-retention techniques. Adjust light exposure if possible or use supplementary lighting.
+29/10/23,7:16:17,Sugarcane,31.44,89.3,72.91,19568.17,Ideal,High,High,Low,Adjust light exposure if possible or use supplementary lighting.
+9/4/24,13:03:39,Sugarcane,37.24,74.9,73.28,19489.87,High,Ideal,High,Low,Implement shade nets or use reflective mulch to reduce soil and air temperatures. Adjust light exposure if possible or use supplementary lighting.
+22/10/23,6:35:20,Sugarcane,21.35,86.22,30.72,21036.82,Low,High,Low,Ideal,Increase irrigation frequency or use soil moisture-retention techniques.
+15/7/24,0:17:11,Potato,17.01,81.88,69.21,15494.66,Low,Ideal,Low,High,Increase irrigation frequency or use soil moisture-retention techniques.
+4/2/24,23:14:56,Rice,32.34,95.66,88.35,14974.9,Ideal,High,High,Ideal,Conditions are within the ideal range.
+13/9/24,2:43:08,Potato,23.59,77.12,62.33,16982.81,High,Low,Low,High,Implement shade nets or use reflective mulch to reduce soil and air temperatures. Consider installing a misting system or using organic mulch to raise humidity levels. Increase irrigation frequency or use soil moisture-retention techniques.
+13/11/23,18:30:11,Jute,27.63,56.87,64.73,50730.76,Ideal,Low,High,High,Consider installing a misting system or using organic mulch to raise humidity levels.
+17/10/23,15:51:22,Wheat,23.09,42.2,43.11,25688.14,Ideal,Low,High,High,Consider installing a misting system or using organic mulch to raise humidity levels.
+14/1/24,21:40:55,Rice,32.93,84.3,80.91,20161.85,Ideal,Ideal,High,High,Conditions are within the ideal range.
+24/4/24,14:58:27,Rice,37.25,79.12,53.47,11402.2,High,Ideal,Low,Ideal,Implement shade nets or use reflective mulch to reduce soil and air temperatures. Increase irrigation frequency or use soil moisture-retention techniques.
+17/1/24,10:59:21,Sugarcane,22.69,69.21,39.62,28407.32,Low,Ideal,Low,Ideal,Increase irrigation frequency or use soil moisture-retention techniques.
+25/10/23,1:50:58,Rice,36.69,77.65,78.71,21199.75,High,Ideal,Ideal,High,Implement shade nets or use reflective mulch to reduce soil and air temperatures.
+4/3/24,23:04:33,Wheat,25.45,53.97,43.59,17817.21,High,Ideal,High,Ideal,Implement shade nets or use reflective mulch to reduce soil and air temperatures.
+26/1/24,9:38:53,Wheat,10.55,57.22,49.69,17940.96,Low,Ideal,High,Ideal,Conditions are within the ideal range.
+12/4/24,1:10:43,Rice,25.23,99.85,64.45,10020.91,Ideal,High,Ideal,Ideal,Conditions are within the ideal range.
+19/10/23,20:54:25,Sugarcane,23.48,79.74,34.51,31506.34,Low,Ideal,Low,High,Increase irrigation frequency or use soil moisture-retention techniques.
+20/6/24,23:12:51,Potato,23.2,93.78,85.99,10729.42,High,High,High,Ideal,Implement shade nets or use reflective mulch to reduce soil and air temperatures.
+18/6/24,1:21:04,Rice,23.76,95.66,66.02,16893.38,Low,High,Ideal,Ideal,Conditions are within the ideal range.
+13/7/24,23:02:23,Sugarcane,21.3,81.33,35.77,25295.09,Low,High,Low,Ideal,Increase irrigation frequency or use soil moisture-retention techniques.
+5/4/24,4:16:49,Sugarcane,22.08,55.5,72.79,27760.32,Low,Low,High,Ideal,Consider installing a misting system or using organic mulch to raise humidity levels.
+10/11/23,15:02:10,Rice,24.77,65.76,63.6,8663.78,Low,Low,Ideal,Low,Consider installing a misting system or using organic mulch to raise humidity levels. Adjust light exposure if possible or use supplementary lighting.
+24/8/24,11:23:14,Potato,22.66,85.82,69.71,14512.11,High,Ideal,Low,Ideal,Implement shade nets or use reflective mulch to reduce soil and air temperatures. Increase irrigation frequency or use soil moisture-retention techniques.
+12/2/24,2:01:37,Jute,41.93,61.65,68.69,40565.82,High,Ideal,High,Ideal,Implement shade nets or use reflective mulch to reduce soil and air temperatures.
+16/10/23,14:46:51,Wheat,27.02,63.4,45.59,12625.52,High,High,High,Low,Implement shade nets or use reflective mulch to reduce soil and air temperatures. Adjust light exposure if possible or use supplementary lighting.
+3/3/24,13:16:22,Sugarcane,38.29,75.09,78.24,29647.54,High,Ideal,High,Ideal,Implement shade nets or use reflective mulch to reduce soil and air temperatures.
+9/11/23,4:32:25,Rice,35.06,60.81,85.23,21240.11,High,Low,High,High,Implement shade nets or use reflective mulch to reduce soil and air temperatures. Consider installing a misting system or using organic mulch to raise humidity levels.
+26/1/24,17:39:58,Potato,23.5,93.26,89.58,10085.39,High,High,High,Ideal,Implement shade nets or use reflective mulch to reduce soil and air temperatures.
+27/7/24,3:20:18,Wheat,12.35,51.66,19.67,24189.98,Ideal,Ideal,Low,Ideal,Increase irrigation frequency or use soil moisture-retention techniques.
+10/11/23,22:24:43,Rice,29.03,93.15,76.01,10726.76,Ideal,High,Ideal,Ideal,Conditions are within the ideal range.
+30/4/24,2:59:43,Jute,34.03,51.36,62.2,51025.23,Ideal,Low,High,High,Consider installing a misting system or using organic mulch to raise humidity levels.
+7/5/24,12:42:49,Wheat,27.35,61.95,18.89,14774.44,High,High,Low,Low,Implement shade nets or use reflective mulch to reduce soil and air temperatures. Increase irrigation frequency or use soil moisture-retention techniques. Adjust light exposure if possible or use supplementary lighting.
+21/1/24,1:03:37,Rice,34.46,65.19,86.29,8429.5,Ideal,Low,High,Low,Consider installing a misting system or using organic mulch to raise humidity levels. Adjust light exposure if possible or use supplementary lighting.
+20/4/24,9:26:57,Sugarcane,38.77,49.61,35.67,31389.13,High,Low,Low,High,Implement shade nets or use reflective mulch to reduce soil and air temperatures. Consider installing a misting system or using organic mulch to raise humidity levels. Increase irrigation frequency or use soil moisture-retention techniques.
+21/2/24,16:38:39,Sugarcane,39.44,55.93,30.24,29660.77,High,Low,Low,Ideal,Implement shade nets or use reflective mulch to reduce soil and air temperatures. Consider installing a misting system or using organic mulch to raise humidity levels. Increase irrigation frequency or use soil moisture-retention techniques.
+24/7/24,9:51:33,Wheat,26.43,43.98,26.96,22596.98,High,Low,Ideal,Ideal,Implement shade nets or use reflective mulch to reduce soil and air temperatures. Consider installing a misting system or using organic mulch to raise humidity levels.
+16/11/23,19:11:17,Potato,17.23,92.65,85.22,6138.18,Low,High,High,Low,Adjust light exposure if possible or use supplementary lighting.
+16/6/24,18:52:00,Wheat,10.39,52.08,46.07,21721.38,Low,Ideal,High,Ideal,Conditions are within the ideal range.
+11/8/24,23:48:04,Wheat,21.9,56.51,17.24,22868.32,Ideal,Ideal,Low,Ideal,Increase irrigation frequency or use soil moisture-retention techniques.
+26/5/24,16:56:41,Jute,38.68,80.71,66.56,53758.23,High,High,High,High,Implement shade nets or use reflective mulch to reduce soil and air temperatures.
+24/7/24,4:38:49,Rice,23,76.21,59.07,21706.35,Low,Ideal,Low,High,Increase irrigation frequency or use soil moisture-retention techniques.
+15/7/24,1:24:56,Rice,21.32,89.07,67.02,21445.36,Low,Ideal,Ideal,High,Conditions are within the ideal range.
+31/10/23,2:38:06,Potato,23.5,82.89,62.37,7161.58,High,Ideal,Low,Low,Implement shade nets or use reflective mulch to reduce soil and air temperatures. Increase irrigation frequency or use soil moisture-retention techniques. Adjust light exposure if possible or use supplementary lighting.
+25/3/24,13:43:42,Potato,15.2,90.35,89.21,11983.48,Low,High,High,Ideal,Conditions are within the ideal range.
+14/4/24,1:27:26,Rice,20.54,67.85,70.79,9532.15,Low,Low,Ideal,Low,Consider installing a misting system or using organic mulch to raise humidity levels. Adjust light exposure if possible or use supplementary lighting.
+2/1/24,2:13:40,Wheat,11.93,62.87,12.47,13786.41,Low,High,Low,Low,Increase irrigation frequency or use soil moisture-retention techniques. Adjust light exposure if possible or use supplementary lighting.
+7/7/24,7:54:47,Jute,25.63,51.92,62.09,54527.18,Ideal,Low,High,High,Consider installing a misting system or using organic mulch to raise humidity levels.
+5/2/24,14:03:50,Sugarcane,36.6,53.32,62.35,30971.88,High,Low,Ideal,High,Implement shade nets or use reflective mulch to reduce soil and air temperatures. Consider installing a misting system or using organic mulch to raise humidity levels.
+18/9/24,12:16:48,Potato,16.32,71.97,76.68,6852.28,Low,Low,Ideal,Low,Consider installing a misting system or using organic mulch to raise humidity levels. Adjust light exposure if possible or use supplementary lighting.
+22/1/24,0:32:22,Potato,20.23,76.99,87.22,16240.89,Ideal,Low,High,High,Consider installing a misting system or using organic mulch to raise humidity levels.
+9/3/24,13:03:38,Rice,38.88,91.04,57.64,11003.09,High,High,Low,Ideal,Implement shade nets or use reflective mulch to reduce soil and air temperatures. Increase irrigation frequency or use soil moisture-retention techniques.
+10/11/23,3:02:09,Jute,39.47,83.24,32.81,54606.7,High,High,Low,High,Implement shade nets or use reflective mulch to reduce soil and air temperatures. Increase irrigation frequency or use soil moisture-retention techniques.
+2/8/24,9:38:42,Sugarcane,21.57,52.41,35.58,19168.35,Low,Low,Low,Low,Consider installing a misting system or using organic mulch to raise humidity levels. Increase irrigation frequency or use soil moisture-retention techniques. Adjust light exposure if possible or use supplementary lighting.
+9/8/24,22:08:31,Rice,24.65,89.11,56.94,9580.07,Low,Ideal,Low,Low,Increase irrigation frequency or use soil moisture-retention techniques. Adjust light exposure if possible or use supplementary lighting.
+27/4/24,15:23:42,Wheat,10.14,57.82,45.84,13189.23,Low,Ideal,High,Low,Adjust light exposure if possible or use supplementary lighting.
+16/10/23,2:20:09,Potato,22.58,89.81,88.4,6893.92,High,Ideal,High,Low,Implement shade nets or use reflective mulch to reduce soil and air temperatures. Adjust light exposure if possible or use supplementary lighting.
+13/10/23,14:55:02,Rice,24.84,91.02,64.4,14072.95,Low,High,Ideal,Ideal,Conditions are within the ideal range.
+5/7/24,15:40:08,Rice,30.59,68.09,53.91,20319.09,Ideal,Low,Low,High,Consider installing a misting system or using organic mulch to raise humidity levels. Increase irrigation frequency or use soil moisture-retention techniques.
+26/1/24,10:14:53,Wheat,13.24,58.72,43.08,18440.9,Ideal,Ideal,High,Ideal,Conditions are within the ideal range.
+28/9/23,17:08:03,Rice,23.08,81.61,65.91,17726.33,Low,Ideal,Ideal,Ideal,Conditions are within the ideal range.
+22/12/23,16:27:51,Rice,39.15,68.87,87.69,17061.61,High,Low,High,Ideal,Implement shade nets or use reflective mulch to reduce soil and air temperatures. Consider installing a misting system or using organic mulch to raise humidity levels.
+30/7/24,23:04:47,Jute,41.53,82.27,68.54,26955.92,High,High,High,Low,Implement shade nets or use reflective mulch to reduce soil and air temperatures. Adjust light exposure if possible or use supplementary lighting.
+27/10/23,18:42:10,Rice,20.04,66.08,64.88,21770.51,Low,Low,Ideal,High,Consider installing a misting system or using organic mulch to raise humidity levels.
+20/1/24,11:19:10,Sugarcane,24.75,87.81,75.11,18060.8,Low,High,High,Low,Adjust light exposure if possible or use supplementary lighting.
+4/2/24,10:40:12,Wheat,15.17,42.6,42.4,27326.77,Ideal,Low,High,High,Consider installing a misting system or using organic mulch to raise humidity levels.
+24/9/23,17:50:20,Potato,16.05,94.15,68.31,12024,Low,High,Low,Ideal,Increase irrigation frequency or use soil moisture-retention techniques.
+17/11/23,16:59:41,Sugarcane,39.26,54.2,75.56,32842.12,High,Low,High,High,Implement shade nets or use reflective mulch to reduce soil and air temperatures. Consider installing a misting system or using organic mulch to raise humidity levels.
+24/7/24,23:14:48,Jute,39.13,83.79,53.43,50166.83,High,High,Ideal,High,Implement shade nets or use reflective mulch to reduce soil and air temperatures.
+4/8/24,19:00:36,Potato,24.51,90.7,86.12,15096.04,High,High,High,High,Implement shade nets or use reflective mulch to reduce soil and air temperatures.
+3/7/24,16:45:56,Sugarcane,20.99,64.7,43.1,19419.03,Low,Ideal,Ideal,Low,Adjust light exposure if possible or use supplementary lighting.
+22/7/24,8:20:07,Wheat,17.33,59,17.18,24340.48,Ideal,Ideal,Low,Ideal,Increase irrigation frequency or use soil moisture-retention techniques.
+30/8/24,21:32:01,Potato,18.15,84.42,67.52,15798.07,Ideal,Ideal,Low,High,Increase irrigation frequency or use soil moisture-retention techniques.
+7/10/23,8:51:31,Wheat,10.44,64.88,27.7,16202.44,Low,High,Ideal,Ideal,Conditions are within the ideal range.
+8/9/24,14:43:57,Sugarcane,25.38,52.24,38.25,30048.98,Ideal,Low,Low,High,Consider installing a misting system or using organic mulch to raise humidity levels. Increase irrigation frequency or use soil moisture-retention techniques.
+11/5/24,4:03:26,Wheat,13.36,52.6,24.42,18522.8,Ideal,Ideal,Ideal,Ideal,Conditions are within the ideal range.
+25/8/24,3:44:40,Sugarcane,34.6,76.49,47.5,23092.29,Ideal,Ideal,Ideal,Ideal,Conditions are within the ideal range.
+9/4/24,14:29:17,Potato,19.08,77.69,86.31,15524.35,Ideal,Low,High,High,Consider installing a misting system or using organic mulch to raise humidity levels.
+6/10/23,9:47:22,Jute,41.15,71.01,31.03,29232.45,High,Ideal,Low,Low,Implement shade nets or use reflective mulch to reduce soil and air temperatures. Increase irrigation frequency or use soil moisture-retention techniques. Adjust light exposure if possible or use supplementary lighting.
+24/9/23,21:22:39,Sugarcane,21.66,82.83,33.74,18027.34,Low,High,Low,Low,Increase irrigation frequency or use soil moisture-retention techniques. Adjust light exposure if possible or use supplementary lighting.
+22/6/24,18:45:15,Wheat,10.45,47.71,32.63,25627.84,Low,Low,Ideal,High,Consider installing a misting system or using organic mulch to raise humidity levels.
+16/4/24,19:55:47,Wheat,11.52,60.32,45.66,24962.46,Low,High,High,Ideal,Conditions are within the ideal range.
+12/2/24,2:25:21,Wheat,26.52,57.58,13.86,12132.31,High,Ideal,Low,Low,Implement shade nets or use reflective mulch to reduce soil and air temperatures. Increase irrigation frequency or use soil moisture-retention techniques. Adjust light exposure if possible or use supplementary lighting.
+7/12/23,6:14:10,Potato,24.55,77.99,72.09,10866.46,High,Low,Ideal,Ideal,Implement shade nets or use reflective mulch to reduce soil and air temperatures. Consider installing a misting system or using organic mulch to raise humidity levels.
+22/1/24,23:18:01,Rice,36.69,90.4,53.25,9814.67,High,High,Low,Low,Implement shade nets or use reflective mulch to reduce soil and air temperatures. Increase irrigation frequency or use soil moisture-retention techniques. Adjust light exposure if possible or use supplementary lighting.
+3/7/24,17:13:00,Wheat,20.32,64.29,47.38,27682.33,Ideal,High,High,High,Conditions are within the ideal range.
+4/7/24,8:50:24,Jute,28.98,54.77,35.63,44956.45,Ideal,Low,Low,Ideal,Consider installing a misting system or using organic mulch to raise humidity levels. Increase irrigation frequency or use soil moisture-retention techniques.
+31/1/24,17:57:04,Wheat,25.34,62.87,18.48,12307.03,High,High,Low,Low,Implement shade nets or use reflective mulch to reduce soil and air temperatures. Increase irrigation frequency or use soil moisture-retention techniques. Adjust light exposure if possible or use supplementary lighting.
+22/8/24,6:45:51,Potato,20.01,79.33,82.08,7978.48,Ideal,Low,Ideal,Low,Consider installing a misting system or using organic mulch to raise humidity levels. Adjust light exposure if possible or use supplementary lighting.
+10/3/24,2:46:53,Potato,24.93,75.42,88.52,6866.47,High,Low,High,Low,Implement shade nets or use reflective mulch to reduce soil and air temperatures. Consider installing a misting system or using organic mulch to raise humidity levels. Adjust light exposure if possible or use supplementary lighting.
+9/3/24,21:00:42,Potato,20.49,89.75,87.54,7189,Ideal,Ideal,High,Low,Adjust light exposure if possible or use supplementary lighting.
+1/5/24,4:28:24,Wheat,21.11,40.85,17.96,12134.16,Ideal,Low,Low,Low,Consider installing a misting system or using organic mulch to raise humidity levels. Increase irrigation frequency or use soil moisture-retention techniques. Adjust light exposure if possible or use supplementary lighting.
+9/8/24,0:23:45,Sugarcane,35.74,53.84,37.86,30478.57,High,Low,Low,High,Implement shade nets or use reflective mulch to reduce soil and air temperatures. Consider installing a misting system or using organic mulch to raise humidity levels. Increase irrigation frequency or use soil moisture-retention techniques.
+1/7/24,20:38:45,Rice,21.94,68.65,86.12,12396.85,Low,Low,High,Ideal,Consider installing a misting system or using organic mulch to raise humidity levels.
+23/6/24,14:11:08,Rice,23.78,82.77,85.82,9667.75,Low,Ideal,High,Low,Adjust light exposure if possible or use supplementary lighting.
+18/4/24,10:53:23,Jute,38.5,51.75,30.58,29798.29,High,Low,Low,Low,Implement shade nets or use reflective mulch to reduce soil and air temperatures. Consider installing a misting system or using organic mulch to raise humidity levels. Increase irrigation frequency or use soil moisture-retention techniques. Adjust light exposure if possible or use supplementary lighting.
+24/11/23,23:15:54,Jute,33.04,61.19,44,27368.76,Ideal,Ideal,Ideal,Low,Adjust light exposure if possible or use supplementary lighting.
+13/5/24,6:24:31,Sugarcane,34.74,81.81,74.92,25745.49,Ideal,High,High,Ideal,Conditions are within the ideal range.
+23/7/24,14:39:12,Potato,24.22,80.56,69.01,13287.54,High,Ideal,Low,Ideal,Implement shade nets or use reflective mulch to reduce soil and air temperatures. Increase irrigation frequency or use soil moisture-retention techniques.
+16/5/24,12:27:19,Rice,21.75,68.41,83.33,9432.18,Low,Low,High,Low,Consider installing a misting system or using organic mulch to raise humidity levels. Adjust light exposure if possible or use supplementary lighting.
+23/8/24,4:32:00,Rice,22.91,62.05,80.63,20036.19,Low,Low,High,High,Consider installing a misting system or using organic mulch to raise humidity levels.
+20/5/24,10:32:20,Rice,37.79,76.91,82.43,9524.14,High,Ideal,High,Low,Implement shade nets or use reflective mulch to reduce soil and air temperatures. Adjust light exposure if possible or use supplementary lighting.
+25/12/23,6:36:36,Potato,16.42,90.75,75.5,16969.97,Low,High,Ideal,High,Conditions are within the ideal range.
+25/3/24,12:03:08,Rice,27.36,92.39,55.12,8561.24,Ideal,High,Low,Low,Increase irrigation frequency or use soil moisture-retention techniques. Adjust light exposure if possible or use supplementary lighting.
+15/5/24,15:23:36,Wheat,25.94,45.52,42.76,12168.23,High,Low,High,Low,Implement shade nets or use reflective mulch to reduce soil and air temperatures. Consider installing a misting system or using organic mulch to raise humidity levels. Adjust light exposure if possible or use supplementary lighting.
+15/6/24,10:23:24,Rice,38.77,64.92,87.11,9120.94,High,Low,High,Low,Implement shade nets or use reflective mulch to reduce soil and air temperatures. Consider installing a misting system or using organic mulch to raise humidity levels. Adjust light exposure if possible or use supplementary lighting.
+27/3/24,23:28:28,Wheat,22.52,57.46,40.74,14268.6,Ideal,Ideal,High,Low,Adjust light exposure if possible or use supplementary lighting.
+23/9/23,10:18:54,Potato,17.82,92.12,66.12,7984.44,Low,High,Low,Low,Increase irrigation frequency or use soil moisture-retention techniques. Adjust light exposure if possible or use supplementary lighting.
+19/1/24,3:25:07,Wheat,10.54,40.23,16.08,14235.06,Low,Low,Low,Low,Consider installing a misting system or using organic mulch to raise humidity levels. Increase irrigation frequency or use soil moisture-retention techniques. Adjust light exposure if possible or use supplementary lighting.
+8/11/23,0:08:31,Wheat,11.68,48.54,11.16,27266.14,Low,Low,Low,High,Consider installing a misting system or using organic mulch to raise humidity levels. Increase irrigation frequency or use soil moisture-retention techniques.
+1/5/24,1:14:01,Jute,20.62,74.61,37.05,25681.78,Low,Ideal,Low,Low,Increase irrigation frequency or use soil moisture-retention techniques. Adjust light exposure if possible or use supplementary lighting.
+20/7/24,22:04:05,Jute,24.21,80.88,61.38,40891.32,Ideal,High,High,Ideal,Conditions are within the ideal range.
+14/11/23,20:01:12,Sugarcane,36.38,89.81,57.13,19036.14,High,High,Ideal,Low,Implement shade nets or use reflective mulch to reduce soil and air temperatures. Adjust light exposure if possible or use supplementary lighting.
+10/2/24,16:20:32,Sugarcane,26.94,53.09,73.08,19577.72,Ideal,Low,High,Low,Consider installing a misting system or using organic mulch to raise humidity levels. Adjust light exposure if possible or use supplementary lighting.
+28/6/24,6:36:36,Wheat,27.56,64.89,47.18,14534.64,High,High,High,Low,Implement shade nets or use reflective mulch to reduce soil and air temperatures. Adjust light exposure if possible or use supplementary lighting.
+23/3/24,4:52:34,Potato,15.84,79.83,84.75,12946.85,Low,Low,Ideal,Ideal,Consider installing a misting system or using organic mulch to raise humidity levels.
+21/5/24,23:18:42,Jute,21.16,89.52,39.93,28404.37,Low,High,Low,Low,Increase irrigation frequency or use soil moisture-retention techniques. Adjust light exposure if possible or use supplementary lighting.
+19/9/24,17:28:10,Jute,38.88,54.93,66.2,52377.85,High,Low,High,High,Implement shade nets or use reflective mulch to reduce soil and air temperatures. Consider installing a misting system or using organic mulch to raise humidity levels.
+2/12/23,20:38:05,Jute,23.02,77.81,37.14,29644.27,Low,Ideal,Low,Low,Increase irrigation frequency or use soil moisture-retention techniques. Adjust light exposure if possible or use supplementary lighting.
+22/10/23,13:12:21,Wheat,10.3,49.66,12.07,21184.79,Low,Low,Low,Ideal,Consider installing a misting system or using organic mulch to raise humidity levels. Increase irrigation frequency or use soil moisture-retention techniques.
+26/1/24,20:13:05,Rice,23.12,66.21,89.6,21396.64,Low,Low,High,High,Consider installing a misting system or using organic mulch to raise humidity levels.
+14/4/24,4:49:12,Sugarcane,27,65.49,66.94,34572.83,Ideal,Ideal,Ideal,High,Conditions are within the ideal range.
+1/2/24,16:04:52,Wheat,11.36,42.69,48.29,19705.36,Low,Low,High,Ideal,Consider installing a misting system or using organic mulch to raise humidity levels.
+21/2/24,10:21:33,Rice,35.13,91.18,58,21019.06,High,High,Low,High,Implement shade nets or use reflective mulch to reduce soil and air temperatures. Increase irrigation frequency or use soil moisture-retention techniques.
+15/1/24,9:41:28,Jute,41.21,50.96,61.21,44810.74,High,Low,High,Ideal,Implement shade nets or use reflective mulch to reduce soil and air temperatures. Consider installing a misting system or using organic mulch to raise humidity levels.
+6/1/24,11:21:12,Potato,23.05,91.46,69.14,11647.99,High,High,Low,Ideal,Implement shade nets or use reflective mulch to reduce soil and air temperatures. Increase irrigation frequency or use soil moisture-retention techniques.
+29/10/23,6:29:19,Wheat,11.96,64.24,17.2,21601.95,Low,High,Low,Ideal,Increase irrigation frequency or use soil moisture-retention techniques.
+15/11/23,17:57:48,Wheat,25.16,61.89,33.29,12061.6,High,High,Ideal,Low,Implement shade nets or use reflective mulch to reduce soil and air temperatures. Adjust light exposure if possible or use supplementary lighting.
+1/9/24,23:37:05,Rice,37.29,67.31,87.04,21063.42,High,Low,High,High,Implement shade nets or use reflective mulch to reduce soil and air temperatures. Consider installing a misting system or using organic mulch to raise humidity levels.
+30/5/24,23:15:47,Potato,16.25,90.2,69.81,17255.83,Low,High,Low,High,Increase irrigation frequency or use soil moisture-retention techniques.
+30/4/24,17:23:33,Jute,23.98,60.32,37.71,27839.37,Low,Ideal,Low,Low,Increase irrigation frequency or use soil moisture-retention techniques. Adjust light exposure if possible or use supplementary lighting.
+23/6/24,9:00:39,Wheat,21.52,55.05,41.36,14015.85,Ideal,Ideal,High,Low,Adjust light exposure if possible or use supplementary lighting.
+20/1/24,13:48:17,Wheat,25.84,67.44,27.73,24865.65,High,High,Ideal,Ideal,Implement shade nets or use reflective mulch to reduce soil and air temperatures.
+17/12/23,21:57:42,Sugarcane,24.39,84.12,66.1,28748.73,Low,High,Ideal,Ideal,Conditions are within the ideal range.
+10/12/23,16:34:18,Wheat,26.9,67.75,43.24,13753.91,High,High,High,Low,Implement shade nets or use reflective mulch to reduce soil and air temperatures. Adjust light exposure if possible or use supplementary lighting.
+30/7/24,18:26:05,Jute,28.07,50.48,35.32,45988.68,Ideal,Low,Low,Ideal,Consider installing a misting system or using organic mulch to raise humidity levels. Increase irrigation frequency or use soil moisture-retention techniques.
+1/1/24,19:57:49,Jute,20.1,64.01,31.28,37665.73,Low,Ideal,Low,Ideal,Increase irrigation frequency or use soil moisture-retention techniques.
+28/5/24,0:12:54,Wheat,26.76,40.78,22.48,17232.11,High,Low,Ideal,Ideal,Implement shade nets or use reflective mulch to reduce soil and air temperatures. Consider installing a misting system or using organic mulch to raise humidity levels.
+5/1/24,20:56:04,Jute,34.11,58.98,43.34,26896.3,Ideal,Low,Ideal,Low,Consider installing a misting system or using organic mulch to raise humidity levels. Adjust light exposure if possible or use supplementary lighting.
+24/6/24,5:15:18,Jute,23.26,52.29,48.85,46025.19,Low,Low,Ideal,Ideal,Consider installing a misting system or using organic mulch to raise humidity levels.
+24/9/23,23:34:52,Potato,15.97,74.34,71.87,14416.06,Low,Low,Ideal,Ideal,Consider installing a misting system or using organic mulch to raise humidity levels.
+20/9/23,15:10:01,Rice,27.39,92.8,81.8,8558.98,Ideal,High,High,Low,Adjust light exposure if possible or use supplementary lighting.
+22/6/24,7:28:33,Sugarcane,38.37,59.51,73.34,18804.64,High,Low,High,Low,Implement shade nets or use reflective mulch to reduce soil and air temperatures. Consider installing a misting system or using organic mulch to raise humidity levels. Adjust light exposure if possible or use supplementary lighting.
+4/8/24,4:40:24,Rice,35.45,80.45,58.78,19940.61,High,Ideal,Low,Ideal,Implement shade nets or use reflective mulch to reduce soil and air temperatures. Increase irrigation frequency or use soil moisture-retention techniques.
+27/8/24,8:18:11,Potato,22.75,91.31,67.38,10410.36,High,High,Low,Ideal,Implement shade nets or use reflective mulch to reduce soil and air temperatures. Increase irrigation frequency or use soil moisture-retention techniques.
+1/6/24,12:53:57,Wheat,25.07,66.99,12.72,23903.95,High,High,Low,Ideal,Implement shade nets or use reflective mulch to reduce soil and air temperatures. Increase irrigation frequency or use soil moisture-retention techniques.
+5/9/24,5:28:33,Rice,23.63,86.52,88.12,9431.26,Low,Ideal,High,Low,Adjust light exposure if possible or use supplementary lighting.
+21/5/24,15:21:48,Potato,23.06,88.5,61.86,11509.29,High,Ideal,Low,Ideal,Implement shade nets or use reflective mulch to reduce soil and air temperatures. Increase irrigation frequency or use soil moisture-retention techniques.
+15/5/24,14:10:36,Sugarcane,30.97,84.24,36.31,18968.86,Ideal,High,Low,Low,Increase irrigation frequency or use soil moisture-retention techniques. Adjust light exposure if possible or use supplementary lighting.
+18/9/24,5:08:20,Rice,37.2,79.81,57.96,9595.39,High,Ideal,Low,Low,Implement shade nets or use reflective mulch to reduce soil and air temperatures. Increase irrigation frequency or use soil moisture-retention techniques. Adjust light exposure if possible or use supplementary lighting.
+10/3/24,4:05:56,Jute,20.96,58.87,31.7,41148.49,Low,Low,Low,Ideal,Consider installing a misting system or using organic mulch to raise humidity levels. Increase irrigation frequency or use soil moisture-retention techniques.
+18/1/24,19:44:50,Rice,20.01,94.27,88.62,20729.73,Low,High,High,High,Conditions are within the ideal range.
+26/4/24,0:23:02,Rice,31.59,93.13,67.32,8481.33,Ideal,High,Ideal,Low,Adjust light exposure if possible or use supplementary lighting.
+7/10/23,3:06:48,Jute,41.23,88.31,32.2,29280.66,High,High,Low,Low,Implement shade nets or use reflective mulch to reduce soil and air temperatures. Increase irrigation frequency or use soil moisture-retention techniques. Adjust light exposure if possible or use supplementary lighting.
+3/1/24,0:49:05,Potato,23.11,77.02,87.18,15191.23,High,Low,High,High,Implement shade nets or use reflective mulch to reduce soil and air temperatures. Consider installing a misting system or using organic mulch to raise humidity levels.
+22/11/23,3:16:53,Jute,30.69,54.37,30.99,42463.78,Ideal,Low,Low,Ideal,Consider installing a misting system or using organic mulch to raise humidity levels. Increase irrigation frequency or use soil moisture-retention techniques.
+6/2/24,7:15:16,Jute,41.02,55.62,34.04,53621.64,High,Low,Low,High,Implement shade nets or use reflective mulch to reduce soil and air temperatures. Consider installing a misting system or using organic mulch to raise humidity levels. Increase irrigation frequency or use soil moisture-retention techniques.
+30/4/24,11:29:46,Potato,24.29,78.11,85.03,11499.06,High,Low,High,Ideal,Implement shade nets or use reflective mulch to reduce soil and air temperatures. Consider installing a misting system or using organic mulch to raise humidity levels.
+16/8/24,1:32:39,Rice,38.64,94.02,89.25,21231.71,High,High,High,High,Implement shade nets or use reflective mulch to reduce soil and air temperatures.
+23/7/24,21:52:34,Rice,23.93,99.16,72.75,8541.92,Low,High,Ideal,Low,Adjust light exposure if possible or use supplementary lighting.
+18/8/24,2:58:26,Rice,24.08,97.56,89.41,20956.55,Low,High,High,High,Conditions are within the ideal range.
+26/8/24,17:33:19,Potato,19.28,87.46,68.43,7164.15,Ideal,Ideal,Low,Low,Increase irrigation frequency or use soil moisture-retention techniques. Adjust light exposure if possible or use supplementary lighting.
+21/7/24,4:23:06,Sugarcane,21.45,62.51,31.77,31043.44,Low,Ideal,Low,High,Increase irrigation frequency or use soil moisture-retention techniques.
+27/10/23,15:06:23,Rice,26.22,61.34,52.01,16836.29,Ideal,Low,Low,Ideal,Consider installing a misting system or using organic mulch to raise humidity levels. Increase irrigation frequency or use soil moisture-retention techniques.
+29/5/24,8:21:55,Rice,21.25,71.39,76.8,18805.07,Low,Ideal,Ideal,Ideal,Conditions are within the ideal range.
+26/3/24,2:54:26,Jute,40.61,88.04,60.59,43660.9,High,High,High,Ideal,Implement shade nets or use reflective mulch to reduce soil and air temperatures.
+18/2/24,7:59:35,Potato,15.35,87.08,61.26,15821.79,Low,Ideal,Low,High,Increase irrigation frequency or use soil moisture-retention techniques.
+13/12/23,3:47:18,Rice,25.89,68.21,59.58,21941.99,Ideal,Low,Low,High,Consider installing a misting system or using organic mulch to raise humidity levels. Increase irrigation frequency or use soil moisture-retention techniques.
+17/12/23,2:38:10,Sugarcane,22.36,50.34,74.24,22906.58,Low,Low,High,Ideal,Consider installing a misting system or using organic mulch to raise humidity levels.
+18/10/23,17:11:06,Rice,37.77,63.66,70.96,20415.54,High,Low,Ideal,High,Implement shade nets or use reflective mulch to reduce soil and air temperatures. Consider installing a misting system or using organic mulch to raise humidity levels.
+2/6/24,19:57:03,Potato,23.09,89.52,61.79,10146.7,High,Ideal,Low,Ideal,Implement shade nets or use reflective mulch to reduce soil and air temperatures. Increase irrigation frequency or use soil moisture-retention techniques.
+18/7/24,5:40:44,Jute,37.22,85.29,44.62,54354.38,Ideal,High,Ideal,High,Conditions are within the ideal range.
+9/12/23,12:43:33,Wheat,19.39,42.05,45.94,12820.13,Ideal,Low,High,Low,Consider installing a misting system or using organic mulch to raise humidity levels. Adjust light exposure if possible or use supplementary lighting.
+9/8/24,19:40:39,Jute,38.81,80.08,69.13,38905.56,High,High,High,Ideal,Implement shade nets or use reflective mulch to reduce soil and air temperatures.
+1/1/24,1:00:09,Jute,41.95,51.49,69.21,28618.01,High,Low,High,Low,Implement shade nets or use reflective mulch to reduce soil and air temperatures. Consider installing a misting system or using organic mulch to raise humidity levels. Adjust light exposure if possible or use supplementary lighting.
+13/9/24,22:08:55,Jute,41.92,88.91,61.87,53066.05,High,High,High,High,Implement shade nets or use reflective mulch to reduce soil and air temperatures.
+30/8/24,13:02:56,Rice,37.62,91.2,56.43,9027.24,High,High,Low,Low,Implement shade nets or use reflective mulch to reduce soil and air temperatures. Increase irrigation frequency or use soil moisture-retention techniques. Adjust light exposure if possible or use supplementary lighting.
+12/1/24,19:41:20,Wheat,22.38,53.09,19.15,14189.62,Ideal,Ideal,Low,Low,Increase irrigation frequency or use soil moisture-retention techniques. Adjust light exposure if possible or use supplementary lighting.
+1/6/24,5:24:14,Rice,21.85,87.96,58.17,8950.45,Low,Ideal,Low,Low,Increase irrigation frequency or use soil moisture-retention techniques. Adjust light exposure if possible or use supplementary lighting.
+13/3/24,20:42:10,Wheat,10.79,64.54,36.29,13869.47,Low,High,Ideal,Low,Adjust light exposure if possible or use supplementary lighting.
+23/9/23,14:35:34,Jute,37.57,83.88,61.95,36314.01,Ideal,High,High,Ideal,Conditions are within the ideal range.
+2/7/24,13:10:38,Jute,21.97,88.4,67.84,43119.77,Low,High,High,Ideal,Conditions are within the ideal range.
+6/9/24,11:57:46,Rice,22.28,91.79,80.89,21543.49,Low,High,High,High,Conditions are within the ideal range.
+17/6/24,0:12:02,Sugarcane,37.55,81.99,33.07,18866,High,High,Low,Low,Implement shade nets or use reflective mulch to reduce soil and air temperatures. Increase irrigation frequency or use soil moisture-retention techniques. Adjust light exposure if possible or use supplementary lighting.
+18/10/23,9:01:59,Rice,24.83,70.16,53.27,21863.11,Low,Ideal,Low,High,Increase irrigation frequency or use soil moisture-retention techniques.
+10/1/24,14:11:13,Wheat,17.05,53.9,46.3,14748.46,Ideal,Ideal,High,Low,Adjust light exposure if possible or use supplementary lighting.
+3/10/23,3:21:03,Potato,22.25,91.55,72.03,15206.85,High,High,Ideal,High,Implement shade nets or use reflective mulch to reduce soil and air temperatures.
+22/3/24,16:53:54,Potato,15.53,90.5,69.72,16789.61,Low,High,Low,High,Increase irrigation frequency or use soil moisture-retention techniques.
+9/12/23,14:38:02,Rice,20.32,73.43,54.97,9422.84,Low,Ideal,Low,Low,Increase irrigation frequency or use soil moisture-retention techniques. Adjust light exposure if possible or use supplementary lighting.
+18/12/23,5:40:34,Jute,23.71,72.76,31.72,54464.08,Low,Ideal,Low,High,Increase irrigation frequency or use soil moisture-retention techniques.
+9/4/24,21:47:52,Potato,18.45,71.21,65.84,15074.46,Ideal,Low,Low,High,Consider installing a misting system or using organic mulch to raise humidity levels. Increase irrigation frequency or use soil moisture-retention techniques.
+8/6/24,2:04:48,Rice,37.7,98.34,80.39,9287.94,High,High,High,Low,Implement shade nets or use reflective mulch to reduce soil and air temperatures. Adjust light exposure if possible or use supplementary lighting.
+12/10/23,3:10:22,Wheat,27.69,60.71,40.32,22923.41,High,High,High,Ideal,Implement shade nets or use reflective mulch to reduce soil and air temperatures.
+8/11/23,18:58:00,Jute,31.52,76.67,38.99,52183.83,Ideal,Ideal,Low,High,Increase irrigation frequency or use soil moisture-retention techniques.
+25/6/24,9:59:58,Jute,33.24,70.28,61.15,32511.74,Ideal,Ideal,High,Ideal,Conditions are within the ideal range.
+19/7/24,0:07:52,Jute,22.32,70.44,66.09,26764.93,Low,Ideal,High,Low,Adjust light exposure if possible or use supplementary lighting.
+22/8/24,20:43:43,Rice,27.63,81.54,82.41,9430.44,Ideal,Ideal,High,Low,Adjust light exposure if possible or use supplementary lighting.
+16/1/24,18:23:24,Potato,21.91,74.45,65.65,15566.7,Ideal,Low,Low,High,Consider installing a misting system or using organic mulch to raise humidity levels. Increase irrigation frequency or use soil moisture-retention techniques.
+20/12/23,1:30:56,Rice,25.17,91.88,85.59,13975.36,Ideal,High,High,Ideal,Conditions are within the ideal range.
+22/10/23,1:42:45,Rice,35.03,81.46,54.72,9659.12,High,Ideal,Low,Low,Implement shade nets or use reflective mulch to reduce soil and air temperatures. Increase irrigation frequency or use soil moisture-retention techniques. Adjust light exposure if possible or use supplementary lighting.
+6/11/23,6:51:29,Rice,39.85,83.57,76.36,21912.64,High,Ideal,Ideal,High,Implement shade nets or use reflective mulch to reduce soil and air temperatures.
+19/2/24,12:09:18,Jute,39.59,52.75,37.49,29548.37,High,Low,Low,Low,Implement shade nets or use reflective mulch to reduce soil and air temperatures. Consider installing a misting system or using organic mulch to raise humidity levels. Increase irrigation frequency or use soil moisture-retention techniques. Adjust light exposure if possible or use supplementary lighting.
+15/4/24,10:16:12,Wheat,26.57,69.42,48.22,20337.27,High,High,High,Ideal,Implement shade nets or use reflective mulch to reduce soil and air temperatures.
+25/5/24,14:55:21,Rice,33.69,69.18,69.79,10797.05,Ideal,Low,Ideal,Ideal,Consider installing a misting system or using organic mulch to raise humidity levels.
+13/10/23,6:25:23,Rice,21.84,65.37,89.37,8798.13,Low,Low,High,Low,Consider installing a misting system or using organic mulch to raise humidity levels. Adjust light exposure if possible or use supplementary lighting.
+10/12/23,5:27:35,Potato,23.48,73.3,69.62,15040.69,High,Low,Low,High,Implement shade nets or use reflective mulch to reduce soil and air temperatures. Consider installing a misting system or using organic mulch to raise humidity levels. Increase irrigation frequency or use soil moisture-retention techniques.
+29/11/23,18:20:51,Jute,40.13,79.13,37.19,37687.82,High,Ideal,Low,Ideal,Implement shade nets or use reflective mulch to reduce soil and air temperatures. Increase irrigation frequency or use soil moisture-retention techniques.
+29/9/23,18:43:34,Wheat,11.03,57.55,47.12,27898.73,Low,Ideal,High,High,Conditions are within the ideal range.
+20/3/24,3:56:02,Potato,16.79,91.33,61.71,16490.58,Low,High,Low,High,Increase irrigation frequency or use soil moisture-retention techniques.
+15/12/23,23:44:45,Jute,23.68,86.89,68.01,53278.61,Low,High,High,High,Conditions are within the ideal range.
+25/9/23,21:08:37,Potato,22.28,90.04,84.79,15615.45,High,High,Ideal,High,Implement shade nets or use reflective mulch to reduce soil and air temperatures.
+26/2/24,22:12:15,Sugarcane,24.51,82.76,55.27,32207.2,Low,High,Ideal,High,Conditions are within the ideal range.
+16/6/24,14:43:36,Potato,17.19,93.23,68.93,8455.53,Low,High,Low,Ideal,Increase irrigation frequency or use soil moisture-retention techniques.
+3/10/23,8:54:57,Potato,23.96,88.2,78.63,15984.47,High,Ideal,Ideal,High,Implement shade nets or use reflective mulch to reduce soil and air temperatures.
+17/6/24,1:48:07,Sugarcane,36.4,81.68,56.27,32254.2,High,High,Ideal,High,Implement shade nets or use reflective mulch to reduce soil and air temperatures.
+10/5/24,17:56:20,Rice,29.64,62.89,89.81,21031.21,Ideal,Low,High,High,Consider installing a misting system or using organic mulch to raise humidity levels.
+15/11/23,21:40:33,Jute,23.52,57.89,65.34,50608.36,Low,Low,High,High,Consider installing a misting system or using organic mulch to raise humidity levels.
+9/10/23,16:46:35,Sugarcane,25.29,75.8,34.84,26193.9,Ideal,Ideal,Low,Ideal,Increase irrigation frequency or use soil moisture-retention techniques.
+13/5/24,15:29:59,Jute,21.42,59.74,62.64,52381.95,Low,Low,High,High,Consider installing a misting system or using organic mulch to raise humidity levels.
+5/11/23,19:57:37,Wheat,27.38,48.2,33.1,22661.52,High,Low,Ideal,Ideal,Implement shade nets or use reflective mulch to reduce soil and air temperatures. Consider installing a misting system or using organic mulch to raise humidity levels.
+5/8/24,13:57:24,Wheat,11.49,45.76,36.26,27453.71,Low,Low,Ideal,High,Consider installing a misting system or using organic mulch to raise humidity levels.
+2/1/24,22:32:27,Jute,22.22,72.37,38.21,54186.29,Low,Ideal,Low,High,Increase irrigation frequency or use soil moisture-retention techniques.
+8/10/23,0:16:45,Sugarcane,27.94,85.68,38.09,30137.57,Ideal,High,Low,High,Increase irrigation frequency or use soil moisture-retention techniques.
+16/1/24,14:28:56,Jute,39.72,52.06,56.31,54554.05,High,Low,Ideal,High,Implement shade nets or use reflective mulch to reduce soil and air temperatures. Consider installing a misting system or using organic mulch to raise humidity levels.
+14/2/24,0:05:25,Rice,24.62,97.8,74.64,8053.6,Low,High,Ideal,Low,Adjust light exposure if possible or use supplementary lighting.
+31/8/24,0:00:47,Jute,20.95,76.34,59.81,48372.88,Low,Ideal,Ideal,Ideal,Conditions are within the ideal range.
+3/6/24,11:07:16,Wheat,26.99,51.23,15.24,26633.35,High,Ideal,Low,High,Implement shade nets or use reflective mulch to reduce soil and air temperatures. Increase irrigation frequency or use soil moisture-retention techniques.
+4/11/23,13:25:05,Potato,23.22,77.49,86.02,6882.68,High,Low,High,Low,Implement shade nets or use reflective mulch to reduce soil and air temperatures. Consider installing a misting system or using organic mulch to raise humidity levels. Adjust light exposure if possible or use supplementary lighting.
+20/6/24,15:50:27,Rice,33.83,98.4,78.9,9769.79,Ideal,High,Ideal,Low,Adjust light exposure if possible or use supplementary lighting.
+11/11/23,17:23:20,Sugarcane,35.26,87.95,70.51,18136.47,High,High,High,Low,Implement shade nets or use reflective mulch to reduce soil and air temperatures. Adjust light exposure if possible or use supplementary lighting.
+17/12/23,23:43:32,Potato,22.64,91.29,60.35,16956.66,High,High,Low,High,Implement shade nets or use reflective mulch to reduce soil and air temperatures. Increase irrigation frequency or use soil moisture-retention techniques.
+26/12/23,20:46:31,Potato,15.65,75.39,88.71,13665.91,Low,Low,High,Ideal,Consider installing a misting system or using organic mulch to raise humidity levels.
+29/12/23,4:50:08,Sugarcane,35.74,80.06,75.46,28698.43,High,High,High,Ideal,Implement shade nets or use reflective mulch to reduce soil and air temperatures.
+22/8/24,1:35:38,Rice,36.89,93.16,64.14,17464.44,High,High,Ideal,Ideal,Implement shade nets or use reflective mulch to reduce soil and air temperatures.
+28/5/24,21:48:08,Sugarcane,30.53,56.82,43.71,27420.86,Ideal,Low,Ideal,Ideal,Consider installing a misting system or using organic mulch to raise humidity levels.
+27/2/24,18:51:18,Wheat,26.23,63.01,12.59,14409.79,High,High,Low,Low,Implement shade nets or use reflective mulch to reduce soil and air temperatures. Increase irrigation frequency or use soil moisture-retention techniques. Adjust light exposure if possible or use supplementary lighting.
+29/6/24,20:13:20,Potato,15.92,81.6,74.78,7274.58,Low,Ideal,Ideal,Low,Adjust light exposure if possible or use supplementary lighting.
+21/4/24,13:28:44,Rice,22.21,70.89,72.1,9103.62,Low,Ideal,Ideal,Low,Adjust light exposure if possible or use supplementary lighting.
+27/1/24,21:12:31,Potato,15.23,88.18,73.81,6521.24,Low,Ideal,Ideal,Low,Adjust light exposure if possible or use supplementary lighting.
+25/12/23,13:08:09,Rice,39.33,82.57,63.45,20165.19,High,Ideal,Ideal,High,Implement shade nets or use reflective mulch to reduce soil and air temperatures.
+17/2/24,20:59:17,Jute,32.52,87.4,48.24,26712.46,Ideal,High,Ideal,Low,Adjust light exposure if possible or use supplementary lighting.
+17/7/24,16:52:03,Wheat,25.15,41.98,43.38,25624.93,High,Low,High,High,Implement shade nets or use reflective mulch to reduce soil and air temperatures. Consider installing a misting system or using organic mulch to raise humidity levels.
+13/8/24,15:35:07,Sugarcane,24.33,73.09,72.24,21306.25,Low,Ideal,High,Ideal,Conditions are within the ideal range.
+6/12/23,17:34:08,Jute,21.94,52.67,40.15,54596.76,Low,Low,Ideal,High,Consider installing a misting system or using organic mulch to raise humidity levels.
+14/2/24,12:22:58,Rice,35.17,98.44,61.74,20440.68,High,High,Ideal,High,Implement shade nets or use reflective mulch to reduce soil and air temperatures.
+2/7/24,8:32:30,Potato,24.69,75.29,62.93,7962.34,High,Low,Low,Low,Implement shade nets or use reflective mulch to reduce soil and air temperatures. Consider installing a misting system or using organic mulch to raise humidity levels. Increase irrigation frequency or use soil moisture-retention techniques. Adjust light exposure if possible or use supplementary lighting.
+2/9/24,17:12:45,Wheat,26,53.35,45.17,22643.97,High,Ideal,High,Ideal,Implement shade nets or use reflective mulch to reduce soil and air temperatures.
+8/4/24,9:17:08,Jute,39.72,50.61,53.18,33027.55,High,Low,Ideal,Ideal,Implement shade nets or use reflective mulch to reduce soil and air temperatures. Consider installing a misting system or using organic mulch to raise humidity levels.
+14/11/23,23:03:29,Potato,15.56,76.54,87.38,15162.64,Low,Low,High,High,Consider installing a misting system or using organic mulch to raise humidity levels.
+19/8/24,12:27:12,Jute,38.66,82.26,30.32,53563.86,High,High,Low,High,Implement shade nets or use reflective mulch to reduce soil and air temperatures. Increase irrigation frequency or use soil moisture-retention techniques.
+10/6/24,8:45:29,Sugarcane,20.24,50.69,35.55,21310.93,Low,Low,Low,Ideal,Consider installing a misting system or using organic mulch to raise humidity levels. Increase irrigation frequency or use soil moisture-retention techniques.
+4/2/24,19:07:53,Rice,28.29,99.57,70.03,13682.27,Ideal,High,Ideal,Ideal,Conditions are within the ideal range.
+14/7/24,18:06:11,Wheat,25.57,41.37,37.2,27277.54,High,Low,Ideal,High,Implement shade nets or use reflective mulch to reduce soil and air temperatures. Consider installing a misting system or using organic mulch to raise humidity levels.
+18/3/24,23:55:46,Sugarcane,35.98,82.5,52.95,19566.21,High,High,Ideal,Low,Implement shade nets or use reflective mulch to reduce soil and air temperatures. Adjust light exposure if possible or use supplementary lighting.
+2/6/24,7:26:41,Sugarcane,34.39,55.57,30.27,22237.19,Ideal,Low,Low,Ideal,Consider installing a misting system or using organic mulch to raise humidity levels. Increase irrigation frequency or use soil moisture-retention techniques.
+23/10/23,22:35:31,Jute,39.25,81.07,57.28,43365.75,High,High,Ideal,Ideal,Implement shade nets or use reflective mulch to reduce soil and air temperatures.
+14/4/24,17:25:29,Potato,16.05,73.44,86.83,16233.25,Low,Low,High,High,Consider installing a misting system or using organic mulch to raise humidity levels.
+5/5/24,17:53:39,Jute,22.41,54.51,38.11,25852.98,Low,Low,Low,Low,Consider installing a misting system or using organic mulch to raise humidity levels. Increase irrigation frequency or use soil moisture-retention techniques. Adjust light exposure if possible or use supplementary lighting.
+8/12/23,16:08:54,Jute,41.67,55.69,35.54,52736.22,High,Low,Low,High,Implement shade nets or use reflective mulch to reduce soil and air temperatures. Consider installing a misting system or using organic mulch to raise humidity levels. Increase irrigation frequency or use soil moisture-retention techniques.
+9/5/24,20:43:59,Sugarcane,36.4,54.22,71.39,19186.91,High,Low,High,Low,Implement shade nets or use reflective mulch to reduce soil and air temperatures. Consider installing a misting system or using organic mulch to raise humidity levels. Adjust light exposure if possible or use supplementary lighting.
+22/12/23,23:44:26,Jute,39.39,69.32,30.49,43962.21,High,Ideal,Low,Ideal,Implement shade nets or use reflective mulch to reduce soil and air temperatures. Increase irrigation frequency or use soil moisture-retention techniques.
+9/4/24,15:33:31,Jute,28.42,73.03,63.43,26887.33,Ideal,Ideal,High,Low,Adjust light exposure if possible or use supplementary lighting.
+16/6/24,11:39:14,Wheat,27.42,55.6,24.8,12549.25,High,Ideal,Ideal,Low,Implement shade nets or use reflective mulch to reduce soil and air temperatures. Adjust light exposure if possible or use supplementary lighting.
+23/4/24,11:25:14,Sugarcane,39.73,85.41,39.23,31528.71,High,High,Low,High,Implement shade nets or use reflective mulch to reduce soil and air temperatures. Increase irrigation frequency or use soil moisture-retention techniques.
+30/12/23,5:56:39,Rice,22.88,60.93,89.84,20157.49,Low,Low,High,High,Consider installing a misting system or using organic mulch to raise humidity levels.
+6/9/24,22:39:08,Rice,39.31,66.69,89.92,8715.96,High,Low,High,Low,Implement shade nets or use reflective mulch to reduce soil and air temperatures. Consider installing a misting system or using organic mulch to raise humidity levels. Adjust light exposure if possible or use supplementary lighting.
+5/8/24,14:04:01,Potato,19.57,84.21,76.35,6109.62,Ideal,Ideal,Ideal,Low,Adjust light exposure if possible or use supplementary lighting.
+20/6/24,9:30:43,Wheat,18.95,69.57,15.13,18392.67,Ideal,High,Low,Ideal,Increase irrigation frequency or use soil moisture-retention techniques.
+18/7/24,12:51:01,Potato,15.92,80.7,88.56,9727.82,Low,Ideal,High,Ideal,Conditions are within the ideal range.
+17/4/24,22:02:18,Sugarcane,22.63,85.31,78.39,34985.35,Low,High,High,High,Conditions are within the ideal range.
+25/9/23,19:32:17,Jute,24.31,77.67,68.11,27929.78,Ideal,Ideal,High,Low,Adjust light exposure if possible or use supplementary lighting.
+27/12/23,10:07:20,Sugarcane,33.69,69.93,37.6,31714.01,Ideal,Ideal,Low,High,Increase irrigation frequency or use soil moisture-retention techniques.
+6/4/24,6:52:12,Jute,21.03,61.07,64.7,53366.18,Low,Ideal,High,High,Conditions are within the ideal range.
+18/6/24,0:47:17,Sugarcane,31.24,62,34.46,33767.47,Ideal,Ideal,Low,High,Increase irrigation frequency or use soil moisture-retention techniques.
+10/3/24,6:22:00,Wheat,11.31,46.08,36.04,14866.05,Low,Low,Ideal,Low,Consider installing a misting system or using organic mulch to raise humidity levels. Adjust light exposure if possible or use supplementary lighting.
+9/5/24,5:46:10,Jute,39.98,60.15,41.78,28393.64,High,Ideal,Ideal,Low,Implement shade nets or use reflective mulch to reduce soil and air temperatures. Adjust light exposure if possible or use supplementary lighting.
+30/6/24,18:41:42,Wheat,23.72,43.89,20.88,26831.89,Ideal,Low,Ideal,High,Consider installing a misting system or using organic mulch to raise humidity levels.
+15/9/24,15:13:47,Wheat,10.19,60.34,14.76,18601.61,Low,High,Low,Ideal,Increase irrigation frequency or use soil moisture-retention techniques.
+28/7/24,16:14:22,Rice,34.29,80.74,57.92,8200.85,Ideal,Ideal,Low,Low,Increase irrigation frequency or use soil moisture-retention techniques. Adjust light exposure if possible or use supplementary lighting.
+15/4/24,21:01:01,Potato,23.84,81.2,83.08,15819.51,High,Ideal,Ideal,High,Implement shade nets or use reflective mulch to reduce soil and air temperatures.
+7/3/24,3:14:31,Jute,24.09,73.43,41.8,31015.72,Ideal,Ideal,Ideal,Ideal,Conditions are within the ideal range.
+2/7/24,17:24:26,Potato,17.87,94.25,87.8,9220.49,Low,High,High,Ideal,Conditions are within the ideal range.
+23/6/24,7:36:30,Wheat,11.78,42.65,43.38,26016.14,Low,Low,High,High,Consider installing a misting system or using organic mulch to raise humidity levels.
+4/6/24,21:24:46,Rice,25.72,90.91,89.45,21653.55,Ideal,High,High,High,Conditions are within the ideal range.
+7/6/24,14:07:39,Wheat,21.44,63.05,46.44,17688.96,Ideal,High,High,Ideal,Conditions are within the ideal range.
+21/8/24,2:56:46,Rice,36.13,77.35,65.02,17184.89,High,Ideal,Ideal,Ideal,Implement shade nets or use reflective mulch to reduce soil and air temperatures.
+19/11/23,19:55:21,Sugarcane,20.22,80.38,39.23,18824.3,Low,High,Low,Low,Increase irrigation frequency or use soil moisture-retention techniques. Adjust light exposure if possible or use supplementary lighting.
+6/10/23,9:00:02,Potato,16.66,94.84,86.13,8253.29,Low,High,High,Ideal,Conditions are within the ideal range.
+28/12/23,19:39:49,Wheat,26.7,46.42,46.88,24195.28,High,Low,High,Ideal,Implement shade nets or use reflective mulch to reduce soil and air temperatures. Consider installing a misting system or using organic mulch to raise humidity levels.
+7/7/24,19:41:24,Wheat,18.45,61.83,40.78,18978.94,Ideal,High,High,Ideal,Conditions are within the ideal range.
+22/4/24,17:52:56,Potato,16.89,83.18,88.54,16571.4,Low,Ideal,High,High,Conditions are within the ideal range.
+10/11/23,19:17:53,Wheat,21.46,52.48,11.48,16401.48,Ideal,Ideal,Low,Ideal,Increase irrigation frequency or use soil moisture-retention techniques.
+29/5/24,17:49:31,Potato,17.73,72.23,89.52,15624.14,Low,Low,High,High,Consider installing a misting system or using organic mulch to raise humidity levels.
+8/4/24,11:48:06,Jute,28.87,89.33,31.62,41999.44,Ideal,High,Low,Ideal,Increase irrigation frequency or use soil moisture-retention techniques.
+4/10/23,5:22:09,Rice,26.84,70.93,88.9,17634.85,Ideal,Ideal,High,Ideal,Conditions are within the ideal range.
+4/4/24,6:18:08,Potato,17.3,91.81,85.14,11704.39,Low,High,High,Ideal,Conditions are within the ideal range.
+21/5/24,2:24:46,Jute,36.4,51.82,64.01,26930.55,Ideal,Low,High,Low,Consider installing a misting system or using organic mulch to raise humidity levels. Adjust light exposure if possible or use supplementary lighting.
+15/11/23,5:28:46,Sugarcane,28.54,68.56,64.86,26571.62,Ideal,Ideal,Ideal,Ideal,Conditions are within the ideal range.
+21/2/24,1:01:43,Jute,40.34,77.3,38.46,28933.64,High,Ideal,Low,Low,Implement shade nets or use reflective mulch to reduce soil and air temperatures. Increase irrigation frequency or use soil moisture-retention techniques. Adjust light exposure if possible or use supplementary lighting.
+7/2/24,15:53:51,Rice,31.84,93.25,54.29,21600.54,Ideal,High,Low,High,Increase irrigation frequency or use soil moisture-retention techniques.
+6/6/24,19:09:57,Rice,34.56,98.19,61.58,20237.84,Ideal,High,Ideal,High,Conditions are within the ideal range.
+17/7/24,6:26:38,Wheat,10.55,62.58,21.2,15898.38,Low,High,Ideal,Ideal,Conditions are within the ideal range.
+28/7/24,1:42:13,Potato,16.3,80.17,72.88,16606.4,Low,Ideal,Ideal,High,Conditions are within the ideal range.
+17/10/23,2:04:48,Jute,21.08,72.3,39.7,50997.82,Low,Ideal,Low,High,Increase irrigation frequency or use soil moisture-retention techniques.
+12/5/24,19:16:39,Wheat,27.63,66.83,40.97,13352.06,High,High,High,Low,Implement shade nets or use reflective mulch to reduce soil and air temperatures. Adjust light exposure if possible or use supplementary lighting.
+8/7/24,21:42:08,Jute,21.63,53.28,32.47,50963.16,Low,Low,Low,High,Consider installing a misting system or using organic mulch to raise humidity levels. Increase irrigation frequency or use soil moisture-retention techniques.
+30/4/24,22:59:36,Rice,30.45,86.23,62.55,21470.32,Ideal,Ideal,Ideal,High,Conditions are within the ideal range.
+21/11/23,20:34:19,Jute,37.78,82.24,47.88,27721.48,Ideal,High,Ideal,Low,Adjust light exposure if possible or use supplementary lighting.
+20/4/24,22:30:58,Rice,22.76,80.76,83.4,20130.72,Low,Ideal,High,High,Conditions are within the ideal range.
+16/6/24,5:35:05,Rice,28.43,95.92,81.49,11579.28,Ideal,High,High,Ideal,Conditions are within the ideal range.
+31/12/23,20:57:49,Wheat,12.31,46.95,46.57,24245.34,Ideal,Low,High,Ideal,Consider installing a misting system or using organic mulch to raise humidity levels.
+20/9/24,2:23:50,Jute,38.13,53.84,30.16,28940.3,High,Low,Low,Low,Implement shade nets or use reflective mulch to reduce soil and air temperatures. Consider installing a misting system or using organic mulch to raise humidity levels. Increase irrigation frequency or use soil moisture-retention techniques. Adjust light exposure if possible or use supplementary lighting.
+19/5/24,12:04:11,Jute,36.08,80.88,52.34,43699.39,Ideal,High,Ideal,Ideal,Conditions are within the ideal range.
+4/11/23,12:58:25,Sugarcane,27.42,76.67,65.19,30474.69,Ideal,Ideal,Ideal,High,Conditions are within the ideal range.
+5/7/24,18:31:01,Sugarcane,21.7,54.2,30.3,19422.25,Low,Low,Low,Low,Consider installing a misting system or using organic mulch to raise humidity levels. Increase irrigation frequency or use soil moisture-retention techniques. Adjust light exposure if possible or use supplementary lighting.
+12/8/24,16:47:52,Jute,23.45,53.63,32.76,54162.59,Low,Low,Low,High,Consider installing a misting system or using organic mulch to raise humidity levels. Increase irrigation frequency or use soil moisture-retention techniques.
+21/3/24,8:52:58,Sugarcane,20.87,70.4,35.59,27038.53,Low,Ideal,Low,Ideal,Increase irrigation frequency or use soil moisture-retention techniques.
+10/1/24,2:53:35,Jute,20.36,51.12,46.52,27482.55,Low,Low,Ideal,Low,Consider installing a misting system or using organic mulch to raise humidity levels. Adjust light exposure if possible or use supplementary lighting.
+29/9/23,8:19:43,Rice,36.27,99.71,78.25,8339.15,High,High,Ideal,Low,Implement shade nets or use reflective mulch to reduce soil and air temperatures. Adjust light exposure if possible or use supplementary lighting.
+8/5/24,12:55:50,Jute,41.96,58.8,40.65,52036.15,High,Low,Ideal,High,Implement shade nets or use reflective mulch to reduce soil and air temperatures. Consider installing a misting system or using organic mulch to raise humidity levels.
+27/4/24,14:10:25,Wheat,25.3,57.34,39.16,27590.86,High,Ideal,Ideal,High,Implement shade nets or use reflective mulch to reduce soil and air temperatures.
+14/6/24,23:35:42,Jute,39.23,88.03,37.06,26664.82,High,High,Low,Low,Implement shade nets or use reflective mulch to reduce soil and air temperatures. Increase irrigation frequency or use soil moisture-retention techniques. Adjust light exposure if possible or use supplementary lighting.
+12/9/24,0:36:41,Potato,20.76,93.01,88.96,9143.93,Ideal,High,High,Ideal,Conditions are within the ideal range.
+2/7/24,5:56:03,Potato,24.51,76.89,85.31,6594.67,High,Low,High,Low,Implement shade nets or use reflective mulch to reduce soil and air temperatures. Consider installing a misting system or using organic mulch to raise humidity levels. Adjust light exposure if possible or use supplementary lighting.
+8/2/24,23:37:34,Jute,25.96,58.73,58.28,46372.51,Ideal,Low,Ideal,Ideal,Consider installing a misting system or using organic mulch to raise humidity levels.
+26/1/24,4:36:02,Jute,22.85,59.15,31.56,52553.08,Low,Low,Low,High,Consider installing a misting system or using organic mulch to raise humidity levels. Increase irrigation frequency or use soil moisture-retention techniques.
+18/1/24,22:26:59,Wheat,19.96,52.02,30.01,20712.29,Ideal,Ideal,Ideal,Ideal,Conditions are within the ideal range.
+26/5/24,1:09:34,Jute,41.85,82.63,44.84,45352.49,High,High,Ideal,Ideal,Implement shade nets or use reflective mulch to reduce soil and air temperatures.
+20/8/24,5:04:43,Potato,23.13,73.16,86.8,6970.27,High,Low,High,Low,Implement shade nets or use reflective mulch to reduce soil and air temperatures. Consider installing a misting system or using organic mulch to raise humidity levels. Adjust light exposure if possible or use supplementary lighting.
+2/3/24,0:40:03,Sugarcane,38.07,55.66,30.61,18756.62,High,Low,Low,Low,Implement shade nets or use reflective mulch to reduce soil and air temperatures. Consider installing a misting system or using organic mulch to raise humidity levels. Increase irrigation frequency or use soil moisture-retention techniques. Adjust light exposure if possible or use supplementary lighting.
+5/12/23,7:39:16,Wheat,26.27,63.57,49.83,18307.86,High,High,High,Ideal,Implement shade nets or use reflective mulch to reduce soil and air temperatures.
+11/6/24,21:45:08,Wheat,10.07,63.99,46.63,13497.8,Low,High,High,Low,Adjust light exposure if possible or use supplementary lighting.
+16/3/24,18:20:21,Potato,16.2,76.13,85.4,7067.59,Low,Low,High,Low,Consider installing a misting system or using organic mulch to raise humidity levels. Adjust light exposure if possible or use supplementary lighting.
+1/3/24,12:50:01,Rice,39.13,87.48,50.06,9293.72,High,Ideal,Low,Low,Implement shade nets or use reflective mulch to reduce soil and air temperatures. Increase irrigation frequency or use soil moisture-retention techniques. Adjust light exposure if possible or use supplementary lighting.
+2/11/23,3:02:46,Wheat,11.16,53.04,13.33,12245.19,Low,Ideal,Low,Low,Increase irrigation frequency or use soil moisture-retention techniques. Adjust light exposure if possible or use supplementary lighting.
+31/7/24,2:04:35,Wheat,11.01,57.12,30.82,25507.09,Low,Ideal,Ideal,High,Conditions are within the ideal range.
+8/4/24,23:46:04,Potato,19.51,93.8,85.27,15825.04,Ideal,High,High,High,Conditions are within the ideal range.
+22/4/24,12:27:30,Wheat,18.42,42.88,11.74,19552.79,Ideal,Low,Low,Ideal,Consider installing a misting system or using organic mulch to raise humidity levels. Increase irrigation frequency or use soil moisture-retention techniques.
+26/2/24,16:55:24,Rice,29.59,96.09,85.87,13881.94,Ideal,High,High,Ideal,Conditions are within the ideal range.
+11/11/23,10:03:28,Potato,21.43,85.09,89.16,11236.47,Ideal,Ideal,High,Ideal,Conditions are within the ideal range.
+31/7/24,14:10:40,Sugarcane,26.68,74.12,53.55,27463.56,Ideal,Ideal,Ideal,Ideal,Conditions are within the ideal range.
+5/1/24,7:05:10,Wheat,10.2,46.53,17.92,12708.64,Low,Low,Low,Low,Consider installing a misting system or using organic mulch to raise humidity levels. Increase irrigation frequency or use soil moisture-retention techniques. Adjust light exposure if possible or use supplementary lighting.
+13/3/24,11:08:29,Wheat,25.82,40.05,48.18,25954.69,High,Low,High,High,Implement shade nets or use reflective mulch to reduce soil and air temperatures. Consider installing a misting system or using organic mulch to raise humidity levels.
+20/4/24,11:59:05,Sugarcane,21.12,50.8,77.81,31680.76,Low,Low,High,High,Consider installing a misting system or using organic mulch to raise humidity levels.
+4/7/24,3:23:54,Sugarcane,32.39,80.73,30.2,31821.18,Ideal,High,Low,High,Increase irrigation frequency or use soil moisture-retention techniques.
+2/7/24,5:59:09,Wheat,21.79,48.26,46.1,14266.92,Ideal,Low,High,Low,Consider installing a misting system or using organic mulch to raise humidity levels. Adjust light exposure if possible or use supplementary lighting.
+2/1/24,17:42:07,Potato,22.99,83.15,89.65,6529.13,High,Ideal,High,Low,Implement shade nets or use reflective mulch to reduce soil and air temperatures. Adjust light exposure if possible or use supplementary lighting.
+25/4/24,17:20:46,Jute,21.77,50.36,30.69,53087.08,Low,Low,Low,High,Consider installing a misting system or using organic mulch to raise humidity levels. Increase irrigation frequency or use soil moisture-retention techniques.
+20/8/24,20:43:55,Wheat,13.8,67.12,16.13,12190.57,Ideal,High,Low,Low,Increase irrigation frequency or use soil moisture-retention techniques. Adjust light exposure if possible or use supplementary lighting.
+2/2/24,2:32:57,Wheat,22,62.29,30.01,23156.54,Ideal,High,Ideal,Ideal,Conditions are within the ideal range.
+14/3/24,13:33:55,Jute,23.95,60.49,61.32,27388.77,Low,Ideal,High,Low,Adjust light exposure if possible or use supplementary lighting.
+2/3/24,18:22:11,Potato,18.64,73.59,61.35,8530.25,Ideal,Low,Low,Ideal,Consider installing a misting system or using organic mulch to raise humidity levels. Increase irrigation frequency or use soil moisture-retention techniques.
+9/6/24,18:46:23,Jute,31.23,73.41,68.02,28073.78,Ideal,Ideal,High,Low,Adjust light exposure if possible or use supplementary lighting.
+18/5/24,13:52:59,Potato,16.27,81.02,72.49,10347.21,Low,Ideal,Ideal,Ideal,Conditions are within the ideal range.
+14/9/24,9:12:38,Rice,27.3,65.09,86.51,8553.19,Ideal,Low,High,Low,Consider installing a misting system or using organic mulch to raise humidity levels. Adjust light exposure if possible or use supplementary lighting.
+1/6/24,10:51:21,Jute,31.38,77.7,65.25,54228.74,Ideal,Ideal,High,High,Conditions are within the ideal range.
+24/9/23,12:25:20,Potato,18.07,83.64,68.25,7786.45,Ideal,Ideal,Low,Low,Increase irrigation frequency or use soil moisture-retention techniques. Adjust light exposure if possible or use supplementary lighting.
+27/8/24,23:23:29,Wheat,10.89,43.03,21.49,14318.39,Low,Low,Ideal,Low,Consider installing a misting system or using organic mulch to raise humidity levels. Adjust light exposure if possible or use supplementary lighting.
+13/12/23,1:11:41,Jute,26,62.53,37.71,47346.31,Ideal,Ideal,Low,Ideal,Increase irrigation frequency or use soil moisture-retention techniques.
+17/7/24,7:03:48,Jute,21.82,68.98,67.31,54777.93,Low,Ideal,High,High,Conditions are within the ideal range.
+28/8/24,8:59:38,Rice,24.33,91.37,66.58,17129.94,Low,High,Ideal,Ideal,Conditions are within the ideal range.
+7/1/24,9:21:26,Potato,15.94,94.9,70.39,10373.11,Low,High,Ideal,Ideal,Conditions are within the ideal range.
+29/1/24,0:58:14,Wheat,10.72,50.49,10.81,12424.88,Low,Ideal,Low,Low,Increase irrigation frequency or use soil moisture-retention techniques. Adjust light exposure if possible or use supplementary lighting.
+13/7/24,6:21:01,Sugarcane,37.54,68.92,72.64,32654.98,High,Ideal,High,High,Implement shade nets or use reflective mulch to reduce soil and air temperatures.
+1/5/24,17:56:00,Sugarcane,22.84,89.32,39.59,32736.46,Low,High,Low,High,Increase irrigation frequency or use soil moisture-retention techniques.
+30/11/23,2:13:35,Sugarcane,37.97,69.09,67.2,18056.69,High,Ideal,Ideal,Low,Implement shade nets or use reflective mulch to reduce soil and air temperatures. Adjust light exposure if possible or use supplementary lighting.
+3/1/24,12:35:19,Potato,16.33,70.98,66.92,15947.91,Low,Low,Low,High,Consider installing a misting system or using organic mulch to raise humidity levels. Increase irrigation frequency or use soil moisture-retention techniques.
+13/11/23,14:08:14,Sugarcane,31.97,52.88,30.89,22761.87,Ideal,Low,Low,Ideal,Consider installing a misting system or using organic mulch to raise humidity levels. Increase irrigation frequency or use soil moisture-retention techniques.
+2/11/23,13:52:15,Sugarcane,24.19,53.04,76.45,23125.24,Low,Low,High,Ideal,Consider installing a misting system or using organic mulch to raise humidity levels.
+8/4/24,17:27:48,Potato,16.57,75.71,85.21,16447.45,Low,Low,High,High,Consider installing a misting system or using organic mulch to raise humidity levels.
+21/10/23,19:37:53,Rice,24.86,92.76,81.95,16897.75,Low,High,High,Ideal,Conditions are within the ideal range.
+13/7/24,20:42:28,Sugarcane,39.05,63.68,79.86,25592.99,High,Ideal,High,Ideal,Implement shade nets or use reflective mulch to reduce soil and air temperatures.
+4/10/23,18:02:49,Rice,39.54,62.68,52.15,14856.23,High,Low,Low,Ideal,Implement shade nets or use reflective mulch to reduce soil and air temperatures. Consider installing a misting system or using organic mulch to raise humidity levels. Increase irrigation frequency or use soil moisture-retention techniques.
+15/5/24,14:18:28,Wheat,11.15,66.95,20.08,13904.08,Low,High,Ideal,Low,Adjust light exposure if possible or use supplementary lighting.
+9/9/24,5:18:59,Rice,21.17,67.78,82.68,21304.01,Low,Low,High,High,Consider installing a misting system or using organic mulch to raise humidity levels.
+27/5/24,15:17:18,Potato,23.42,93.87,61.56,15637.02,High,High,Low,High,Implement shade nets or use reflective mulch to reduce soil and air temperatures. Increase irrigation frequency or use soil moisture-retention techniques.
+19/3/24,18:23:59,Jute,41.81,54.52,50.8,29779.78,High,Low,Ideal,Low,Implement shade nets or use reflective mulch to reduce soil and air temperatures. Consider installing a misting system or using organic mulch to raise humidity levels. Adjust light exposure if possible or use supplementary lighting.
+11/1/24,9:57:38,Jute,40.65,83.21,54.41,25952.98,High,High,Ideal,Low,Implement shade nets or use reflective mulch to reduce soil and air temperatures. Adjust light exposure if possible or use supplementary lighting.
+2/8/24,5:56:42,Sugarcane,35.59,70.91,33.39,23385.3,High,Ideal,Low,Ideal,Implement shade nets or use reflective mulch to reduce soil and air temperatures. Increase irrigation frequency or use soil moisture-retention techniques.
+17/12/23,17:45:52,Jute,29.52,58.08,69.69,53687.08,Ideal,Low,High,High,Consider installing a misting system or using organic mulch to raise humidity levels.
+7/8/24,13:13:34,Potato,15.48,89.57,62.37,16326.65,Low,Ideal,Low,High,Increase irrigation frequency or use soil moisture-retention techniques.
+21/5/24,5:49:26,Sugarcane,20.34,54.16,44.05,20432.23,Low,Low,Ideal,Ideal,Consider installing a misting system or using organic mulch to raise humidity levels.
+21/9/23,9:29:37,Rice,21.64,84.73,59.72,15459.75,Low,Ideal,Low,Ideal,Increase irrigation frequency or use soil moisture-retention techniques.
+24/7/24,14:23:20,Jute,21.26,84.41,64.53,54252.19,Low,High,High,High,Conditions are within the ideal range.
+10/10/23,5:54:25,Wheat,11.29,52.03,39.42,19169.33,Low,Ideal,Ideal,Ideal,Conditions are within the ideal range.
+7/7/24,9:47:00,Jute,27.43,57.7,39.25,28316.28,Ideal,Low,Low,Low,Consider installing a misting system or using organic mulch to raise humidity levels. Increase irrigation frequency or use soil moisture-retention techniques. Adjust light exposure if possible or use supplementary lighting.
+23/11/23,14:20:12,Wheat,24.04,58.8,33.73,25741.92,Ideal,Ideal,Ideal,High,Conditions are within the ideal range.
+27/10/23,11:58:33,Potato,20.25,92.25,84.91,6631.4,Ideal,High,Ideal,Low,Adjust light exposure if possible or use supplementary lighting.
+24/2/24,1:46:50,Jute,41.44,55.87,40.08,54349.63,High,Low,Ideal,High,Implement shade nets or use reflective mulch to reduce soil and air temperatures. Consider installing a misting system or using organic mulch to raise humidity levels.
+4/12/23,20:43:29,Wheat,10.5,61.58,17.6,13596.22,Low,High,Low,Low,Increase irrigation frequency or use soil moisture-retention techniques. Adjust light exposure if possible or use supplementary lighting.
+18/12/23,16:53:24,Potato,15.3,92.36,80.53,9547.16,Low,High,Ideal,Ideal,Conditions are within the ideal range.
+3/12/23,14:14:50,Potato,18.87,94.68,89.4,11600.56,Ideal,High,High,Ideal,Conditions are within the ideal range.
+10/4/24,5:45:41,Sugarcane,20.53,69.02,32.41,28701.66,Low,Ideal,Low,Ideal,Increase irrigation frequency or use soil moisture-retention techniques.
+24/5/24,4:56:20,Rice,22.11,61.13,83.47,18834.93,Low,Low,High,Ideal,Consider installing a misting system or using organic mulch to raise humidity levels.
+30/8/24,20:26:03,Sugarcane,29.12,69.59,79.54,19091.08,Ideal,Ideal,High,Low,Adjust light exposure if possible or use supplementary lighting.
+15/12/23,3:39:45,Sugarcane,26.78,82.92,34.4,19527.63,Ideal,High,Low,Low,Increase irrigation frequency or use soil moisture-retention techniques. Adjust light exposure if possible or use supplementary lighting.
+19/8/24,15:34:27,Wheat,12.93,61.34,47.47,27645.03,Ideal,High,High,High,Conditions are within the ideal range.
+24/9/23,12:15:38,Jute,25.07,51.3,40.77,35304.99,Ideal,Low,Ideal,Ideal,Consider installing a misting system or using organic mulch to raise humidity levels.
+5/3/24,18:07:12,Potato,15.13,87.03,86.5,13313.81,Low,Ideal,High,Ideal,Conditions are within the ideal range.
+2/3/24,13:33:58,Potato,23.15,92.87,86.57,12840.7,High,High,High,Ideal,Implement shade nets or use reflective mulch to reduce soil and air temperatures.
+20/2/24,6:43:02,Potato,19.51,93.89,60.93,16202.98,Ideal,High,Low,High,Increase irrigation frequency or use soil moisture-retention techniques.
+29/2/24,17:37:09,Potato,16.85,91.4,85.82,14121.77,Low,High,High,Ideal,Conditions are within the ideal range.
+8/6/24,0:29:53,Potato,23.02,94.17,64.43,11461.9,High,High,Low,Ideal,Implement shade nets or use reflective mulch to reduce soil and air temperatures. Increase irrigation frequency or use soil moisture-retention techniques.
+13/2/24,18:06:25,Potato,23.32,91.55,61.38,7926.4,High,High,Low,Low,Implement shade nets or use reflective mulch to reduce soil and air temperatures. Increase irrigation frequency or use soil moisture-retention techniques. Adjust light exposure if possible or use supplementary lighting.
+26/12/23,1:59:55,Sugarcane,39.67,73.3,56.07,18283.61,High,Ideal,Ideal,Low,Implement shade nets or use reflective mulch to reduce soil and air temperatures. Adjust light exposure if possible or use supplementary lighting.
+11/11/23,21:18:18,Rice,35,93.55,57.26,20288.49,High,High,Low,High,Implement shade nets or use reflective mulch to reduce soil and air temperatures. Increase irrigation frequency or use soil moisture-retention techniques.
+3/3/24,23:06:47,Wheat,25.65,66.1,34.69,26364.85,High,High,Ideal,High,Implement shade nets or use reflective mulch to reduce soil and air temperatures.
+20/6/24,4:08:32,Wheat,15.41,56.92,32.6,21987.08,Ideal,Ideal,Ideal,Ideal,Conditions are within the ideal range.
+19/4/24,20:27:40,Potato,19.02,93.63,60.97,10707,Ideal,High,Low,Ideal,Increase irrigation frequency or use soil moisture-retention techniques.
+28/12/23,3:53:37,Wheat,10.53,43.46,30.64,12922.24,Low,Low,Ideal,Low,Consider installing a misting system or using organic mulch to raise humidity levels. Adjust light exposure if possible or use supplementary lighting.
+19/2/24,13:38:45,Jute,35.32,52.95,42.5,36463.52,Ideal,Low,Ideal,Ideal,Consider installing a misting system or using organic mulch to raise humidity levels.
+2/12/23,18:31:01,Wheat,11.47,46.21,10.86,27951.5,Low,Low,Low,High,Consider installing a misting system or using organic mulch to raise humidity levels. Increase irrigation frequency or use soil moisture-retention techniques.
+27/2/24,3:58:26,Sugarcane,39.64,73.81,75.37,18338.37,High,Ideal,High,Low,Implement shade nets or use reflective mulch to reduce soil and air temperatures. Adjust light exposure if possible or use supplementary lighting.
+23/8/24,16:46:15,Sugarcane,25.33,83.89,74.64,19631.36,Ideal,High,High,Low,Adjust light exposure if possible or use supplementary lighting.
+16/6/24,8:20:07,Wheat,23.32,43.55,37.69,13587.85,Ideal,Low,Ideal,Low,Consider installing a misting system or using organic mulch to raise humidity levels. Adjust light exposure if possible or use supplementary lighting.
+6/10/23,18:23:00,Potato,15.92,83.99,85.86,8174.5,Low,Ideal,High,Ideal,Conditions are within the ideal range.
+30/9/23,8:57:32,Sugarcane,38.49,79.58,39.11,31530.15,High,Ideal,Low,High,Implement shade nets or use reflective mulch to reduce soil and air temperatures. Increase irrigation frequency or use soil moisture-retention techniques.
+28/9/23,11:28:00,Sugarcane,27.08,60.29,44.75,19872.87,Ideal,Ideal,Ideal,Low,Adjust light exposure if possible or use supplementary lighting.
+8/4/24,18:57:10,Sugarcane,21.18,80.44,76.62,19889.3,Low,High,High,Low,Adjust light exposure if possible or use supplementary lighting.
+3/9/24,21:25:49,Potato,22.04,90.3,73.23,9628.03,High,High,Ideal,Ideal,Implement shade nets or use reflective mulch to reduce soil and air temperatures.
+22/6/24,1:48:22,Potato,22.33,76.37,76.28,14881.05,High,Low,Ideal,Ideal,Implement shade nets or use reflective mulch to reduce soil and air temperatures. Consider installing a misting system or using organic mulch to raise humidity levels.
+18/1/24,8:44:28,Rice,21.71,96.8,68.79,14902.68,Low,High,Ideal,Ideal,Conditions are within the ideal range.
+22/3/24,11:55:50,Potato,19.45,92.05,75.57,7213.88,Ideal,High,Ideal,Low,Adjust light exposure if possible or use supplementary lighting.
+25/9/23,21:29:48,Potato,21.6,76.19,86.47,14975.12,Ideal,Low,High,Ideal,Consider installing a misting system or using organic mulch to raise humidity levels.
+15/11/23,21:41:41,Wheat,12.91,57.07,25.28,21846.25,Ideal,Ideal,Ideal,Ideal,Conditions are within the ideal range.
+20/12/23,6:35:51,Rice,33.61,68.21,80.39,20365.32,Ideal,Low,High,High,Consider installing a misting system or using organic mulch to raise humidity levels.
+23/11/23,3:14:33,Potato,24.96,83.15,75.89,7636.09,High,Ideal,Ideal,Low,Implement shade nets or use reflective mulch to reduce soil and air temperatures. Adjust light exposure if possible or use supplementary lighting.
+28/7/24,16:58:31,Jute,21.56,67.69,57.72,25350.72,Low,Ideal,Ideal,Low,Adjust light exposure if possible or use supplementary lighting.
+1/11/23,9:33:31,Potato,17.25,83.77,62.02,6871.69,Low,Ideal,Low,Low,Increase irrigation frequency or use soil moisture-retention techniques. Adjust light exposure if possible or use supplementary lighting.
+24/5/24,8:47:17,Rice,30.13,82.69,50.16,20937.19,Ideal,Ideal,Low,High,Increase irrigation frequency or use soil moisture-retention techniques.
+15/4/24,4:01:25,Wheat,10.94,50.04,13.63,17599.37,Low,Ideal,Low,Ideal,Increase irrigation frequency or use soil moisture-retention techniques.
+4/9/24,10:31:56,Sugarcane,23.36,71.85,79.95,30123.53,Low,Ideal,High,High,Conditions are within the ideal range.
+26/12/23,16:12:24,Rice,33.07,77.89,88.19,19120.68,Ideal,Ideal,High,Ideal,Conditions are within the ideal range.
+29/12/23,14:35:43,Wheat,25.35,59.47,49.68,13084.03,High,Ideal,High,Low,Implement shade nets or use reflective mulch to reduce soil and air temperatures. Adjust light exposure if possible or use supplementary lighting.
+10/4/24,11:55:14,Jute,30.41,59.3,54.18,36215.68,Ideal,Low,Ideal,Ideal,Consider installing a misting system or using organic mulch to raise humidity levels.
+22/7/24,16:45:50,Potato,17.9,90.62,75.03,6856.84,Low,High,Ideal,Low,Adjust light exposure if possible or use supplementary lighting.
+17/10/23,11:43:19,Potato,23.53,77.98,78.66,7417.2,High,Low,Ideal,Low,Implement shade nets or use reflective mulch to reduce soil and air temperatures. Consider installing a misting system or using organic mulch to raise humidity levels. Adjust light exposure if possible or use supplementary lighting.
+21/3/24,4:17:09,Sugarcane,39.14,79.76,71.77,30679.05,High,Ideal,High,High,Implement shade nets or use reflective mulch to reduce soil and air temperatures.
+13/6/24,16:48:51,Sugarcane,24.44,72.45,71.75,32428.77,Low,Ideal,High,High,Conditions are within the ideal range.
+7/8/24,11:45:53,Potato,24.45,79.03,79.38,7764.65,High,Low,Ideal,Low,Implement shade nets or use reflective mulch to reduce soil and air temperatures. Consider installing a misting system or using organic mulch to raise humidity levels. Adjust light exposure if possible or use supplementary lighting.
+11/8/24,0:47:13,Rice,20.46,90.13,62.97,10723.16,Low,High,Ideal,Ideal,Conditions are within the ideal range.
+19/11/23,21:56:21,Jute,22.88,75.3,55.08,26431,Low,Ideal,Ideal,Low,Adjust light exposure if possible or use supplementary lighting.
+13/12/23,15:57:00,Wheat,10.14,44.91,46.2,12590.21,Low,Low,High,Low,Consider installing a misting system or using organic mulch to raise humidity levels. Adjust light exposure if possible or use supplementary lighting.
+11/12/23,0:37:39,Sugarcane,33.88,89.72,37.12,30066.19,Ideal,High,Low,High,Increase irrigation frequency or use soil moisture-retention techniques.
+5/2/24,3:20:09,Wheat,19.7,65.13,28.18,22787.47,Ideal,High,Ideal,Ideal,Conditions are within the ideal range.
+19/6/24,7:38:44,Jute,30.31,59.09,35.94,26854.94,Ideal,Low,Low,Low,Consider installing a misting system or using organic mulch to raise humidity levels. Increase irrigation frequency or use soil moisture-retention techniques. Adjust light exposure if possible or use supplementary lighting.
+30/9/23,11:41:20,Rice,33.44,93.67,68.81,8137.44,Ideal,High,Ideal,Low,Adjust light exposure if possible or use supplementary lighting.
+7/6/24,10:58:35,Rice,37.17,67.31,80.01,8403.52,High,Low,High,Low,Implement shade nets or use reflective mulch to reduce soil and air temperatures. Consider installing a misting system or using organic mulch to raise humidity levels. Adjust light exposure if possible or use supplementary lighting.
+11/7/24,4:34:05,Rice,31.44,88.85,80.75,8573.26,Ideal,Ideal,High,Low,Adjust light exposure if possible or use supplementary lighting.
+8/10/23,10:29:00,Potato,19.46,87.41,86.82,16063.03,Ideal,Ideal,High,High,Conditions are within the ideal range.
+19/12/23,4:32:40,Wheat,27.7,68.08,43.77,12031.99,High,High,High,Low,Implement shade nets or use reflective mulch to reduce soil and air temperatures. Adjust light exposure if possible or use supplementary lighting.
+20/5/24,15:47:53,Potato,22.43,83.4,68.43,6904.97,High,Ideal,Low,Low,Implement shade nets or use reflective mulch to reduce soil and air temperatures. Increase irrigation frequency or use soil moisture-retention techniques. Adjust light exposure if possible or use supplementary lighting.
+23/5/24,14:17:06,Sugarcane,37.96,51.78,53.95,29422.8,High,Low,Ideal,Ideal,Implement shade nets or use reflective mulch to reduce soil and air temperatures. Consider installing a misting system or using organic mulch to raise humidity levels.
+23/10/23,12:10:55,Sugarcane,32.51,82.1,38.28,28022.26,Ideal,High,Low,Ideal,Increase irrigation frequency or use soil moisture-retention techniques.
+17/9/24,19:02:45,Potato,18.44,75.51,63.34,6097.41,Ideal,Low,Low,Low,Consider installing a misting system or using organic mulch to raise humidity levels. Increase irrigation frequency or use soil moisture-retention techniques. Adjust light exposure if possible or use supplementary lighting.
+8/5/24,12:00:59,Rice,30.77,60.75,59.58,21448.92,Ideal,Low,Low,High,Consider installing a misting system or using organic mulch to raise humidity levels. Increase irrigation frequency or use soil moisture-retention techniques.
+2/4/24,3:25:29,Potato,23.41,90.24,87.9,7397.54,High,High,High,Low,Implement shade nets or use reflective mulch to reduce soil and air temperatures. Adjust light exposure if possible or use supplementary lighting.
+11/3/24,19:21:09,Jute,21.93,50.7,61.16,26323.03,Low,Low,High,Low,Consider installing a misting system or using organic mulch to raise humidity levels. Adjust light exposure if possible or use supplementary lighting.
+28/7/24,11:44:56,Rice,27.05,60.36,84.65,8623.33,Ideal,Low,High,Low,Consider installing a misting system or using organic mulch to raise humidity levels. Adjust light exposure if possible or use supplementary lighting.
+29/3/24,9:41:51,Rice,23.13,72.37,73.71,8382.36,Low,Ideal,Ideal,Low,Adjust light exposure if possible or use supplementary lighting.
+14/1/24,10:15:01,Rice,28.49,65.16,85.18,21357.79,Ideal,Low,High,High,Consider installing a misting system or using organic mulch to raise humidity levels.
+7/1/24,4:41:43,Potato,23.26,79.81,64.35,16328.56,High,Low,Low,High,Implement shade nets or use reflective mulch to reduce soil and air temperatures. Consider installing a misting system or using organic mulch to raise humidity levels. Increase irrigation frequency or use soil moisture-retention techniques.
+19/1/24,22:15:27,Jute,22.51,63.82,66.7,28179.26,Low,Ideal,High,Low,Adjust light exposure if possible or use supplementary lighting.
+23/9/23,12:34:34,Sugarcane,27.35,81.57,34.02,18593.55,Ideal,High,Low,Low,Increase irrigation frequency or use soil moisture-retention techniques. Adjust light exposure if possible or use supplementary lighting.
+1/11/23,19:33:25,Rice,36.62,66.3,59.64,9398.29,High,Low,Low,Low,Implement shade nets or use reflective mulch to reduce soil and air temperatures. Consider installing a misting system or using organic mulch to raise humidity levels. Increase irrigation frequency or use soil moisture-retention techniques. Adjust light exposure if possible or use supplementary lighting.
+27/6/24,8:26:32,Rice,38.06,86.77,84.14,15805.44,High,Ideal,High,Ideal,Implement shade nets or use reflective mulch to reduce soil and air temperatures.
+16/3/24,17:02:05,Sugarcane,21.82,82.54,70.75,32364.42,Low,High,High,High,Conditions are within the ideal range.
+9/11/23,0:15:28,Sugarcane,22.51,52.79,78.27,24786.83,Low,Low,High,Ideal,Consider installing a misting system or using organic mulch to raise humidity levels.
+20/12/23,0:15:19,Potato,18.33,82.91,88.55,16527.78,Ideal,Ideal,High,High,Conditions are within the ideal range.
+11/4/24,1:00:38,Jute,35.02,73.35,52.44,50431.15,Ideal,Ideal,Ideal,High,Conditions are within the ideal range.
+1/11/23,11:43:34,Rice,22.76,66.2,70.65,18076,Low,Low,Ideal,Ideal,Consider installing a misting system or using organic mulch to raise humidity levels.
+20/2/24,22:43:59,Sugarcane,22.25,54.84,41.27,31757.15,Low,Low,Ideal,High,Consider installing a misting system or using organic mulch to raise humidity levels.
+15/8/24,1:23:15,Wheat,26.56,55.29,41.36,13436.69,High,Ideal,High,Low,Implement shade nets or use reflective mulch to reduce soil and air temperatures. Adjust light exposure if possible or use supplementary lighting.
+27/6/24,17:20:29,Rice,26.04,69.31,50.17,20870.78,Ideal,Low,Low,High,Consider installing a misting system or using organic mulch to raise humidity levels. Increase irrigation frequency or use soil moisture-retention techniques.
+7/6/24,19:33:03,Sugarcane,36.81,86.8,63.5,25239.62,High,High,Ideal,Ideal,Implement shade nets or use reflective mulch to reduce soil and air temperatures.
+12/2/24,11:19:01,Potato,20.39,75.55,88.49,13516.3,Ideal,Low,High,Ideal,Consider installing a misting system or using organic mulch to raise humidity levels.
+5/4/24,10:41:24,Wheat,23.74,40.86,20.42,12331.09,Ideal,Low,Ideal,Low,Consider installing a misting system or using organic mulch to raise humidity levels. Adjust light exposure if possible or use supplementary lighting.
+30/12/23,8:53:26,Sugarcane,37.02,51.43,30.14,34629.19,High,Low,Low,High,Implement shade nets or use reflective mulch to reduce soil and air temperatures. Consider installing a misting system or using organic mulch to raise humidity levels. Increase irrigation frequency or use soil moisture-retention techniques.
+29/2/24,6:22:58,Jute,26.13,88.24,53.95,27796.27,Ideal,High,Ideal,Low,Adjust light exposure if possible or use supplementary lighting.
+29/3/24,17:18:00,Rice,23.44,69.13,88.25,16481.78,Low,Low,High,Ideal,Consider installing a misting system or using organic mulch to raise humidity levels.
+19/2/24,11:24:13,Sugarcane,35.41,51.84,79.36,22317.13,High,Low,High,Ideal,Implement shade nets or use reflective mulch to reduce soil and air temperatures. Consider installing a misting system or using organic mulch to raise humidity levels.
+10/11/23,22:09:04,Rice,23.25,67.13,56.14,14777.62,Low,Low,Low,Ideal,Consider installing a misting system or using organic mulch to raise humidity levels. Increase irrigation frequency or use soil moisture-retention techniques.
+21/9/23,12:28:45,Jute,40.52,51.55,65.99,50403.97,High,Low,High,High,Implement shade nets or use reflective mulch to reduce soil and air temperatures. Consider installing a misting system or using organic mulch to raise humidity levels.
+26/7/24,22:47:06,Rice,39.65,76.53,56.95,21981.2,High,Ideal,Low,High,Implement shade nets or use reflective mulch to reduce soil and air temperatures. Increase irrigation frequency or use soil moisture-retention techniques.
+30/6/24,6:54:40,Sugarcane,39.6,52.02,38.73,24026.53,High,Low,Low,Ideal,Implement shade nets or use reflective mulch to reduce soil and air temperatures. Consider installing a misting system or using organic mulch to raise humidity levels. Increase irrigation frequency or use soil moisture-retention techniques.
+30/6/24,8:26:03,Wheat,10.14,42.6,49.9,18109.27,Low,Low,High,Ideal,Consider installing a misting system or using organic mulch to raise humidity levels.
+24/2/24,3:00:49,Jute,38.06,87.56,58.14,50074.94,High,High,Ideal,High,Implement shade nets or use reflective mulch to reduce soil and air temperatures.
+7/11/23,12:19:18,Sugarcane,32.05,77,33.94,34427.55,Ideal,Ideal,Low,High,Increase irrigation frequency or use soil moisture-retention techniques.
+27/7/24,1:14:34,Rice,36.23,85.67,56.09,20931.72,High,Ideal,Low,High,Implement shade nets or use reflective mulch to reduce soil and air temperatures. Increase irrigation frequency or use soil moisture-retention techniques.
+26/4/24,16:55:56,Jute,24.95,85.31,45.04,41457.28,Ideal,High,Ideal,Ideal,Conditions are within the ideal range.
+9/12/23,7:51:29,Sugarcane,37.49,78.44,41.89,18613.4,High,Ideal,Ideal,Low,Implement shade nets or use reflective mulch to reduce soil and air temperatures. Adjust light exposure if possible or use supplementary lighting.
+16/12/23,1:33:40,Potato,16.44,85.95,88.06,15871.85,Low,Ideal,High,High,Conditions are within the ideal range.
+10/12/23,15:43:50,Potato,16.35,92.07,60.99,16251.42,Low,High,Low,High,Increase irrigation frequency or use soil moisture-retention techniques.
+27/5/24,12:41:13,Potato,24.02,80.29,87.52,6082.27,High,Ideal,High,Low,Implement shade nets or use reflective mulch to reduce soil and air temperatures. Adjust light exposure if possible or use supplementary lighting.
+17/12/23,2:15:28,Potato,18.74,80.69,71.25,15930.61,Ideal,Ideal,Ideal,High,Conditions are within the ideal range.
+2/7/24,3:44:49,Wheat,11.24,66.44,17.69,25868.44,Low,High,Low,High,Increase irrigation frequency or use soil moisture-retention techniques.
+28/9/23,0:02:34,Jute,38.81,84.06,39.26,25448.31,High,High,Low,Low,Implement shade nets or use reflective mulch to reduce soil and air temperatures. Increase irrigation frequency or use soil moisture-retention techniques. Adjust light exposure if possible or use supplementary lighting.
+11/8/24,23:15:30,Sugarcane,23.97,63.49,78.83,29810.98,Low,Ideal,High,Ideal,Conditions are within the ideal range.
+23/12/23,11:37:56,Jute,22.91,79.74,40.48,29088.42,Low,Ideal,Ideal,Low,Adjust light exposure if possible or use supplementary lighting.
+5/6/24,8:29:46,Potato,15.81,73.36,87.08,9417.94,Low,Low,High,Ideal,Consider installing a misting system or using organic mulch to raise humidity levels.
+21/3/24,4:43:38,Rice,33.47,82.48,66.62,8520.97,Ideal,Ideal,Ideal,Low,Adjust light exposure if possible or use supplementary lighting.
+14/3/24,8:12:14,Jute,30.02,83.09,64.69,25999.95,Ideal,High,High,Low,Adjust light exposure if possible or use supplementary lighting.
+11/8/24,15:12:32,Wheat,27.43,52.25,18.69,15177.43,High,Ideal,Low,Ideal,Implement shade nets or use reflective mulch to reduce soil and air temperatures. Increase irrigation frequency or use soil moisture-retention techniques.
+17/9/24,18:14:36,Wheat,11.72,63.88,48.43,12137.88,Low,High,High,Low,Adjust light exposure if possible or use supplementary lighting.
+12/11/23,13:38:18,Rice,38.26,62.73,80.03,14330.71,High,Low,High,Ideal,Implement shade nets or use reflective mulch to reduce soil and air temperatures. Consider installing a misting system or using organic mulch to raise humidity levels.
+7/8/24,14:53:07,Potato,23.73,93.34,80.03,8925.19,High,High,Ideal,Ideal,Implement shade nets or use reflective mulch to reduce soil and air temperatures.
+15/7/24,5:56:40,Rice,34.3,90.7,57.62,20846.83,Ideal,High,Low,High,Increase irrigation frequency or use soil moisture-retention techniques.
+6/12/23,23:24:26,Wheat,11.23,54.62,46.39,16882.75,Low,Ideal,High,Ideal,Conditions are within the ideal range.
+1/10/23,9:41:47,Rice,21.15,62.59,61.07,11122.57,Low,Low,Ideal,Ideal,Consider installing a misting system or using organic mulch to raise humidity levels.
+27/10/23,9:35:04,Potato,19.93,90.65,76.79,15627.81,Ideal,High,Ideal,High,Conditions are within the ideal range.
+17/6/24,1:33:20,Wheat,18.58,44.85,47.51,27414.98,Ideal,Low,High,High,Consider installing a misting system or using organic mulch to raise humidity levels.
+22/6/24,23:56:14,Potato,18.23,90.23,64.97,8121.77,Ideal,High,Low,Ideal,Increase irrigation frequency or use soil moisture-retention techniques.
+25/2/24,18:10:09,Wheat,12.75,43.5,33.4,26554.13,Ideal,Low,Ideal,High,Consider installing a misting system or using organic mulch to raise humidity levels.
+20/3/24,18:29:23,Sugarcane,25.9,67.22,78.22,19650.63,Ideal,Ideal,High,Low,Adjust light exposure if possible or use supplementary lighting.
+24/4/24,6:29:37,Wheat,10.76,50.03,35.13,13952.86,Low,Ideal,Ideal,Low,Adjust light exposure if possible or use supplementary lighting.
+1/5/24,8:18:37,Jute,22.36,89.08,68.18,46509.22,Low,High,High,Ideal,Conditions are within the ideal range.
+9/11/23,8:43:06,Rice,29.89,91.23,74.95,9129.77,Ideal,High,Ideal,Low,Adjust light exposure if possible or use supplementary lighting.
+6/11/23,20:28:50,Potato,24.43,86.84,72.94,6214.53,High,Ideal,Ideal,Low,Implement shade nets or use reflective mulch to reduce soil and air temperatures. Adjust light exposure if possible or use supplementary lighting.
+20/7/24,21:35:20,Potato,18.02,86.02,67.7,16322.21,Ideal,Ideal,Low,High,Increase irrigation frequency or use soil moisture-retention techniques.
+24/9/23,20:18:11,Potato,17.2,70.65,85.54,11828.59,Low,Low,High,Ideal,Consider installing a misting system or using organic mulch to raise humidity levels.
+29/9/23,22:16:52,Potato,22.58,92.22,71.41,7053.26,High,High,Ideal,Low,Implement shade nets or use reflective mulch to reduce soil and air temperatures. Adjust light exposure if possible or use supplementary lighting.
+20/5/24,2:49:35,Sugarcane,36.72,80.98,74.06,22504.96,High,High,High,Ideal,Implement shade nets or use reflective mulch to reduce soil and air temperatures.
+16/4/24,18:34:47,Sugarcane,39.64,79.46,60.69,19944,High,Ideal,Ideal,Low,Implement shade nets or use reflective mulch to reduce soil and air temperatures. Adjust light exposure if possible or use supplementary lighting.
+14/2/24,3:44:00,Wheat,13.52,47.65,21.55,27994.65,Ideal,Low,Ideal,High,Consider installing a misting system or using organic mulch to raise humidity levels.
+18/10/23,13:06:38,Wheat,11.67,59.99,37.99,26405.27,Low,Ideal,Ideal,High,Conditions are within the ideal range.
+14/8/24,17:12:30,Potato,17,76.52,86.44,8278.59,Low,Low,High,Ideal,Consider installing a misting system or using organic mulch to raise humidity levels.
+29/11/23,21:45:29,Potato,17.22,90.52,71.2,7375.78,Low,High,Ideal,Low,Adjust light exposure if possible or use supplementary lighting.
+30/8/24,4:05:24,Jute,22.59,59.94,64.84,27251.91,Low,Low,High,Low,Consider installing a misting system or using organic mulch to raise humidity levels. Adjust light exposure if possible or use supplementary lighting.
+30/10/23,22:26:55,Potato,15.17,94.85,62.57,10518.67,Low,High,Low,Ideal,Increase irrigation frequency or use soil moisture-retention techniques.
+25/5/24,8:03:53,Sugarcane,22.21,53.31,75.1,34828.32,Low,Low,High,High,Consider installing a misting system or using organic mulch to raise humidity levels.
+25/8/24,0:10:34,Potato,21.58,81.91,66.91,16380.78,Ideal,Ideal,Low,High,Increase irrigation frequency or use soil moisture-retention techniques.
+22/8/24,11:30:07,Wheat,11.84,67.09,10.79,15193.8,Low,High,Low,Ideal,Increase irrigation frequency or use soil moisture-retention techniques.
+14/1/24,11:31:48,Potato,22.78,90.71,85.52,16895.06,High,High,High,High,Implement shade nets or use reflective mulch to reduce soil and air temperatures.
+29/12/23,21:14:12,Potato,21.42,93.37,72.56,11301.68,Ideal,High,Ideal,Ideal,Conditions are within the ideal range.
+24/5/24,20:08:11,Wheat,11.71,42.22,16.39,26216.57,Low,Low,Low,High,Consider installing a misting system or using organic mulch to raise humidity levels. Increase irrigation frequency or use soil moisture-retention techniques.
+14/9/24,0:03:50,Potato,19.42,70.41,89.36,15444.94,Ideal,Low,High,High,Consider installing a misting system or using organic mulch to raise humidity levels.
+29/12/23,4:56:48,Sugarcane,30.73,88.59,43.33,19901.49,Ideal,High,Ideal,Low,Adjust light exposure if possible or use supplementary lighting.
+11/9/24,14:09:51,Wheat,11.81,48.86,11.39,14103.26,Low,Low,Low,Low,Consider installing a misting system or using organic mulch to raise humidity levels. Increase irrigation frequency or use soil moisture-retention techniques. Adjust light exposure if possible or use supplementary lighting.
+8/12/23,6:21:32,Sugarcane,20.54,54.95,44.72,34196.74,Low,Low,Ideal,High,Consider installing a misting system or using organic mulch to raise humidity levels.
+25/11/23,6:31:29,Rice,37.47,80.09,51.5,9138.78,High,Ideal,Low,Low,Implement shade nets or use reflective mulch to reduce soil and air temperatures. Increase irrigation frequency or use soil moisture-retention techniques. Adjust light exposure if possible or use supplementary lighting.
+18/1/24,12:59:33,Wheat,18.47,51.43,48.68,14052.58,Ideal,Ideal,High,Low,Adjust light exposure if possible or use supplementary lighting.
+25/6/24,13:44:52,Rice,21.96,99.37,52.15,20247.04,Low,High,Low,High,Increase irrigation frequency or use soil moisture-retention techniques.
+24/1/24,20:20:05,Potato,17.32,77.98,63.92,16762.19,Low,Low,Low,High,Consider installing a misting system or using organic mulch to raise humidity levels. Increase irrigation frequency or use soil moisture-retention techniques.
+16/10/23,22:00:42,Potato,20.9,81.83,86.37,15213.38,Ideal,Ideal,High,High,Conditions are within the ideal range.
+28/7/24,18:19:06,Potato,16.98,85.38,62.8,7296.58,Low,Ideal,Low,Low,Increase irrigation frequency or use soil moisture-retention techniques. Adjust light exposure if possible or use supplementary lighting.
+22/10/23,17:31:39,Potato,15.39,94.22,88.89,16556.34,Low,High,High,High,Conditions are within the ideal range.
+20/1/24,15:49:06,Rice,30.9,65.73,64.88,8113.95,Ideal,Low,Ideal,Low,Consider installing a misting system or using organic mulch to raise humidity levels. Adjust light exposure if possible or use supplementary lighting.
+7/3/24,19:20:57,Rice,36.81,77.17,70.5,9673.72,High,Ideal,Ideal,Low,Implement shade nets or use reflective mulch to reduce soil and air temperatures. Adjust light exposure if possible or use supplementary lighting.
+3/10/23,22:29:36,Potato,15.18,90.69,87.35,15600.37,Low,High,High,High,Conditions are within the ideal range.
+11/4/24,5:36:16,Sugarcane,23.23,75.83,35.99,19499.14,Low,Ideal,Low,Low,Increase irrigation frequency or use soil moisture-retention techniques. Adjust light exposure if possible or use supplementary lighting.
+21/2/24,4:37:26,Wheat,17.27,52.42,13.69,24511.28,Ideal,Ideal,Low,Ideal,Increase irrigation frequency or use soil moisture-retention techniques.
+20/1/24,3:04:53,Jute,21.94,74.63,60.91,45246.98,Low,Ideal,High,Ideal,Conditions are within the ideal range.
+25/6/24,4:29:42,Sugarcane,21.34,55.52,31.56,30574.22,Low,Low,Low,High,Consider installing a misting system or using organic mulch to raise humidity levels. Increase irrigation frequency or use soil moisture-retention techniques.
+14/12/23,21:56:34,Rice,22.13,61.9,70.64,20093.24,Low,Low,Ideal,High,Consider installing a misting system or using organic mulch to raise humidity levels.
+4/10/23,12:48:39,Rice,36.82,75.77,72.03,8894.97,High,Ideal,Ideal,Low,Implement shade nets or use reflective mulch to reduce soil and air temperatures. Adjust light exposure if possible or use supplementary lighting.
+9/6/24,8:58:33,Potato,16.52,90.37,84.61,15984.55,Low,High,Ideal,High,Conditions are within the ideal range.
+5/9/24,3:21:54,Wheat,11.25,47.9,33.32,25381.95,Low,Low,Ideal,High,Consider installing a misting system or using organic mulch to raise humidity levels.
+8/10/23,21:33:12,Rice,22.1,96.67,55.03,8947.8,Low,High,Low,Low,Increase irrigation frequency or use soil moisture-retention techniques. Adjust light exposure if possible or use supplementary lighting.
+2/9/24,2:28:28,Potato,18.14,78.61,68.21,6832.62,Ideal,Low,Low,Low,Consider installing a misting system or using organic mulch to raise humidity levels. Increase irrigation frequency or use soil moisture-retention techniques. Adjust light exposure if possible or use supplementary lighting.
+14/7/24,20:14:26,Jute,20.72,52.02,48.52,53889.51,Low,Low,Ideal,High,Consider installing a misting system or using organic mulch to raise humidity levels.
+26/4/24,4:37:26,Jute,36.47,55.74,64.75,31959.26,Ideal,Low,High,Ideal,Consider installing a misting system or using organic mulch to raise humidity levels.
+9/6/24,5:12:31,Sugarcane,31.11,81.31,39.31,30624.18,Ideal,High,Low,High,Increase irrigation frequency or use soil moisture-retention techniques.
+8/11/23,11:33:32,Wheat,10.77,40.35,42.28,12921.46,Low,Low,High,Low,Consider installing a misting system or using organic mulch to raise humidity levels. Adjust light exposure if possible or use supplementary lighting.
+3/5/24,3:03:00,Rice,39.08,61.93,84.39,18651.27,High,Low,High,Ideal,Implement shade nets or use reflective mulch to reduce soil and air temperatures. Consider installing a misting system or using organic mulch to raise humidity levels.
+12/6/24,21:30:43,Sugarcane,37.32,65.38,78.51,18674.29,High,Ideal,High,Low,Implement shade nets or use reflective mulch to reduce soil and air temperatures. Adjust light exposure if possible or use supplementary lighting.
+30/5/24,16:09:24,Wheat,18.75,55.71,29.59,19559.26,Ideal,Ideal,Ideal,Ideal,Conditions are within the ideal range.
+27/12/23,20:50:17,Jute,39.62,65.12,61.87,27285.22,High,Ideal,High,Low,Implement shade nets or use reflective mulch to reduce soil and air temperatures. Adjust light exposure if possible or use supplementary lighting.
+5/11/23,17:15:32,Potato,20.19,83.35,87.24,7622.58,Ideal,Ideal,High,Low,Adjust light exposure if possible or use supplementary lighting.
+2/9/24,18:53:08,Potato,20.75,87.94,88.19,6190.16,Ideal,Ideal,High,Low,Adjust light exposure if possible or use supplementary lighting.
+4/4/24,8:13:29,Rice,35.32,66.93,51.09,21134.61,High,Low,Low,High,Implement shade nets or use reflective mulch to reduce soil and air temperatures. Consider installing a misting system or using organic mulch to raise humidity levels. Increase irrigation frequency or use soil moisture-retention techniques.
+4/9/24,11:58:05,Rice,22.4,74.5,73.15,10169.26,Low,Ideal,Ideal,Ideal,Conditions are within the ideal range.
+17/12/23,15:51:04,Potato,24.44,87.06,72.61,7341.11,High,Ideal,Ideal,Low,Implement shade nets or use reflective mulch to reduce soil and air temperatures. Adjust light exposure if possible or use supplementary lighting.
+27/7/24,20:43:00,Wheat,19.16,42.13,43.86,26879.22,Ideal,Low,High,High,Consider installing a misting system or using organic mulch to raise humidity levels.
+14/12/23,23:52:55,Potato,21.2,77.04,88.04,16907.36,Ideal,Low,High,High,Consider installing a misting system or using organic mulch to raise humidity levels.
+23/6/24,19:25:31,Sugarcane,22.96,83.94,71.36,20293.92,Low,High,High,Ideal,Conditions are within the ideal range.
+6/1/24,13:50:36,Rice,38.72,64.47,51.97,11341.4,High,Low,Low,Ideal,Implement shade nets or use reflective mulch to reduce soil and air temperatures. Consider installing a misting system or using organic mulch to raise humidity levels. Increase irrigation frequency or use soil moisture-retention techniques.
+26/7/24,16:56:47,Sugarcane,23.78,81.07,72.76,31696.61,Low,High,High,High,Conditions are within the ideal range.
+7/1/24,1:51:05,Sugarcane,38.66,85.32,77.21,21925.71,High,High,High,Ideal,Implement shade nets or use reflective mulch to reduce soil and air temperatures.
+2/3/24,2:09:01,Wheat,11.83,46.98,13.47,26181.15,Low,Low,Low,High,Consider installing a misting system or using organic mulch to raise humidity levels. Increase irrigation frequency or use soil moisture-retention techniques.
+25/5/24,13:17:10,Rice,37.57,80.49,88.19,9159.2,High,Ideal,High,Low,Implement shade nets or use reflective mulch to reduce soil and air temperatures. Adjust light exposure if possible or use supplementary lighting.
+2/1/24,17:46:09,Potato,22.46,93.32,87.28,6854.25,High,High,High,Low,Implement shade nets or use reflective mulch to reduce soil and air temperatures. Adjust light exposure if possible or use supplementary lighting.
+25/12/23,15:01:13,Potato,23.71,85.96,73.23,11860.11,High,Ideal,Ideal,Ideal,Implement shade nets or use reflective mulch to reduce soil and air temperatures.
+4/5/24,15:28:26,Jute,38.3,88.51,36.41,52692.56,High,High,Low,High,Implement shade nets or use reflective mulch to reduce soil and air temperatures. Increase irrigation frequency or use soil moisture-retention techniques.
+12/8/24,15:07:20,Wheat,10.78,50.27,23.54,13742.31,Low,Ideal,Ideal,Low,Adjust light exposure if possible or use supplementary lighting.
+9/7/24,23:36:56,Potato,20.91,75.62,88.53,6434.23,Ideal,Low,High,Low,Consider installing a misting system or using organic mulch to raise humidity levels. Adjust light exposure if possible or use supplementary lighting.
+25/11/23,1:39:52,Jute,20.6,82.39,39.81,43942.97,Low,High,Low,Ideal,Increase irrigation frequency or use soil moisture-retention techniques.
+8/11/23,4:49:07,Potato,21.07,73.84,88.21,15830.21,Ideal,Low,High,High,Consider installing a misting system or using organic mulch to raise humidity levels.
+23/3/24,22:10:07,Jute,36.33,87.55,32.91,28117.58,Ideal,High,Low,Low,Increase irrigation frequency or use soil moisture-retention techniques. Adjust light exposure if possible or use supplementary lighting.
+18/2/24,21:14:40,Jute,41.97,76.97,66.84,36345.71,High,Ideal,High,Ideal,Implement shade nets or use reflective mulch to reduce soil and air temperatures.
+30/9/23,23:14:59,Rice,21.08,99.63,78.42,8448.48,Low,High,Ideal,Low,Adjust light exposure if possible or use supplementary lighting.
+27/11/23,10:48:18,Wheat,26.84,44.64,23.03,25121.7,High,Low,Ideal,High,Implement shade nets or use reflective mulch to reduce soil and air temperatures. Consider installing a misting system or using organic mulch to raise humidity levels.
+19/3/24,3:03:35,Jute,23.13,56.51,39.85,27608.75,Low,Low,Low,Low,Consider installing a misting system or using organic mulch to raise humidity levels. Increase irrigation frequency or use soil moisture-retention techniques. Adjust light exposure if possible or use supplementary lighting.
+4/7/24,17:41:34,Potato,20.08,83.34,62.44,16986.78,Ideal,Ideal,Low,High,Increase irrigation frequency or use soil moisture-retention techniques.
+25/5/24,20:51:57,Wheat,10.13,67.55,48.5,13561.66,Low,High,High,Low,Adjust light exposure if possible or use supplementary lighting.
+29/3/24,13:57:35,Jute,39.61,69.69,44.25,50263.79,High,Ideal,Ideal,High,Implement shade nets or use reflective mulch to reduce soil and air temperatures.
+15/4/24,23:20:14,Wheat,26.75,52.25,40.9,13712.79,High,Ideal,High,Low,Implement shade nets or use reflective mulch to reduce soil and air temperatures. Adjust light exposure if possible or use supplementary lighting.
+28/2/24,23:03:29,Potato,19.71,81.67,63.04,7021.5,Ideal,Ideal,Low,Low,Increase irrigation frequency or use soil moisture-retention techniques. Adjust light exposure if possible or use supplementary lighting.
+9/11/23,9:07:38,Wheat,12.56,49.45,45.22,14450.52,Ideal,Low,High,Low,Consider installing a misting system or using organic mulch to raise humidity levels. Adjust light exposure if possible or use supplementary lighting.
+2/12/23,15:37:46,Potato,16.31,85.44,75.4,15471.77,Low,Ideal,Ideal,High,Conditions are within the ideal range.
+17/12/23,1:13:29,Potato,16.32,93.76,89.13,9844.15,Low,High,High,Ideal,Conditions are within the ideal range.
+17/2/24,22:39:37,Sugarcane,37.46,62.92,38.79,30859.15,High,Ideal,Low,High,Implement shade nets or use reflective mulch to reduce soil and air temperatures. Increase irrigation frequency or use soil moisture-retention techniques.
+9/3/24,17:37:13,Sugarcane,37.54,86.04,30.8,23804.73,High,High,Low,Ideal,Implement shade nets or use reflective mulch to reduce soil and air temperatures. Increase irrigation frequency or use soil moisture-retention techniques.
+9/2/24,23:12:24,Wheat,23.68,40.3,36.28,16034.23,Ideal,Low,Ideal,Ideal,Consider installing a misting system or using organic mulch to raise humidity levels.
+7/6/24,22:36:59,Jute,34.44,62.42,69.52,40447.06,Ideal,Ideal,High,Ideal,Conditions are within the ideal range.
+12/5/24,3:28:23,Wheat,26.09,45.36,38.9,15663.95,High,Low,Ideal,Ideal,Implement shade nets or use reflective mulch to reduce soil and air temperatures. Consider installing a misting system or using organic mulch to raise humidity levels.
+27/7/24,13:20:23,Potato,22.84,77.9,71.41,16579.85,High,Low,Ideal,High,Implement shade nets or use reflective mulch to reduce soil and air temperatures. Consider installing a misting system or using organic mulch to raise humidity levels.
+1/5/24,17:03:22,Sugarcane,28.51,77.94,32.24,27472.71,Ideal,Ideal,Low,Ideal,Increase irrigation frequency or use soil moisture-retention techniques.
+20/4/24,16:01:57,Sugarcane,24.57,86.21,39.93,31388.77,Low,High,Low,High,Increase irrigation frequency or use soil moisture-retention techniques.
+9/5/24,9:10:03,Rice,21.94,82.59,59.91,9860.62,Low,Ideal,Low,Low,Increase irrigation frequency or use soil moisture-retention techniques. Adjust light exposure if possible or use supplementary lighting.
+5/1/24,16:33:48,Wheat,12.99,43.36,28.31,12825.26,Ideal,Low,Ideal,Low,Consider installing a misting system or using organic mulch to raise humidity levels. Adjust light exposure if possible or use supplementary lighting.
+25/11/23,21:15:39,Wheat,25.53,48.31,12.39,27423.12,High,Low,Low,High,Implement shade nets or use reflective mulch to reduce soil and air temperatures. Consider installing a misting system or using organic mulch to raise humidity levels. Increase irrigation frequency or use soil moisture-retention techniques.
+23/9/23,9:05:00,Potato,19.78,80.74,75.2,11097.51,Ideal,Ideal,Ideal,Ideal,Conditions are within the ideal range.
+23/6/24,19:34:38,Jute,21.11,53.17,30.61,40487.81,Low,Low,Low,Ideal,Consider installing a misting system or using organic mulch to raise humidity levels. Increase irrigation frequency or use soil moisture-retention techniques.
+18/9/24,19:01:18,Wheat,10.49,41.19,42.86,25480.81,Low,Low,High,High,Consider installing a misting system or using organic mulch to raise humidity levels.
+19/7/24,19:52:53,Rice,28.02,66.19,88.68,13773.72,Ideal,Low,High,Ideal,Consider installing a misting system or using organic mulch to raise humidity levels.
+17/8/24,17:26:32,Jute,34.65,57.67,56.17,43662.65,Ideal,Low,Ideal,Ideal,Consider installing a misting system or using organic mulch to raise humidity levels.
+22/12/23,13:13:24,Sugarcane,31.85,89.85,67.8,18136.84,Ideal,High,Ideal,Low,Adjust light exposure if possible or use supplementary lighting.
+11/7/24,13:05:20,Rice,29.47,73.95,50.68,18394.48,Ideal,Ideal,Low,Ideal,Increase irrigation frequency or use soil moisture-retention techniques.
+25/8/24,5:51:18,Jute,23.02,80.78,55.73,34132.03,Low,High,Ideal,Ideal,Conditions are within the ideal range.
+16/1/24,1:10:39,Potato,24.55,74.02,67.83,7290.27,High,Low,Low,Low,Implement shade nets or use reflective mulch to reduce soil and air temperatures. Consider installing a misting system or using organic mulch to raise humidity levels. Increase irrigation frequency or use soil moisture-retention techniques. Adjust light exposure if possible or use supplementary lighting.
+9/1/24,22:09:48,Rice,36.21,71.39,80.38,21116.66,High,Ideal,High,High,Implement shade nets or use reflective mulch to reduce soil and air temperatures.
+24/12/23,16:42:31,Jute,41.86,56.27,61.97,26527.29,High,Low,High,Low,Implement shade nets or use reflective mulch to reduce soil and air temperatures. Consider installing a misting system or using organic mulch to raise humidity levels. Adjust light exposure if possible or use supplementary lighting.
+13/5/24,13:35:25,Jute,33.31,80.12,59.17,49651.92,Ideal,High,Ideal,Ideal,Conditions are within the ideal range.
+10/4/24,21:09:55,Sugarcane,23.28,53.52,77.3,19919.42,Low,Low,High,Low,Consider installing a misting system or using organic mulch to raise humidity levels. Adjust light exposure if possible or use supplementary lighting.
+29/11/23,15:47:10,Potato,21.51,82.71,87.89,14370.78,Ideal,Ideal,High,Ideal,Conditions are within the ideal range.
+21/6/24,19:51:46,Potato,24.07,88.49,88.89,16624.79,High,Ideal,High,High,Implement shade nets or use reflective mulch to reduce soil and air temperatures.
+31/5/24,20:12:15,Jute,32.82,80.62,66.46,35518.29,Ideal,High,High,Ideal,Conditions are within the ideal range.
+3/12/23,13:59:57,Rice,22.27,62.64,69.6,20235.85,Low,Low,Ideal,High,Consider installing a misting system or using organic mulch to raise humidity levels.
+9/7/24,8:33:59,Jute,24.13,77.76,38.01,27615.86,Ideal,Ideal,Low,Low,Increase irrigation frequency or use soil moisture-retention techniques. Adjust light exposure if possible or use supplementary lighting.
